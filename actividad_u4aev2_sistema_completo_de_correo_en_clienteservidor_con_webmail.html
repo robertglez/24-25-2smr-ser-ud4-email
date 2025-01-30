@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Actividad U4.AEV2. Sistema completo de correo en cliente-servidor con webmail | 4. Serveis d'email </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Vicent Jordà" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.9 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="prism.css">
+</head>
+<body class="exe-web-site exe-search-bar exe-atools" id="exe-node-12"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Omet navegació</a></p>
+<header id="header" ><div id="headerContent">4. Serveis d'email</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">UNIDAD 4. Servicios de e-mail</a></li>
+   <li><a href="01_introduccin.html" class="no-ch">01| Introducción</a></li>
+   <li><a href="02_funcionamiento_del_servicio.html" class="no-ch">02| Funcionamiento del servicio</a></li>
+   <li><a href="03_protocolos_en_la_gestin_de_correo_electrnico.html" class="no-ch">03| Protocolos en la gestión de correo electrónico</a></li>
+   <li><a href="04_servidores_de_correo_electrnico.html" class="no-ch">04| Servidores de correo electrónico</a></li>
+   <li><a href="05_clientes_de_correo_electrnico.html" class="no-ch">05| Clientes de correo electrónico</a></li>
+   <li><a href="06_seguridad_y_vulnerabilidades.html" class="no-ch">06| Seguridad y vulnerabilidades</a></li>
+   <li><a href="07_cuestionario_de_repaso.html" class="no-ch">07| Cuestionario de repaso</a></li>
+   <li><a href="actividad_u4aev1_instalacin_de_un_sistema_completo_de_correo.html" class="no-ch">Actividad U4.AEV1. Instalación de un sistema completo de correo</a></li>
+   <li id="active"><a href="actividad_u4aev2_sistema_completo_de_correo_en_clienteservidor_con_webmail.html" class="active no-ch">Actividad U4.AEV2. Sistema completo de correo en cliente-servidor con webmail</a></li>
+   <li><a href="bibliografa.html" class="no-ch">Bibliografía</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="actividad_u4aev1_instalacin_de_un_sistema_completo_de_correo.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Pàgina  <strong>10</strong> de <strong>11</strong></span> <span class="sep">| </span><a href="bibliografa.html" class="next"><span>Següent<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Actividad U4.AEV2. Sistema completo de correo en cliente-servidor con webmail</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id15">
+<div class="iDevice emphasis0" >
+<div id="ta15_127_2" class="block iDevice_content">
+<div class="exe-text"><h1>Actividad Evaluable: Configuración de Servidor de Correo con Roundcube</h1>
+<div class="section">
+<h2>📚 Detalles</h2>
+<p><strong>Módulo:</strong> Servicios en Red</p>
+<p><strong>Unidad Didáctica:</strong> Servicios de Correo Electrónico</p>
+<p><strong>Nivel:</strong> 2º SMR</p>
+<p><strong>Duración:</strong> 3 sesiones (3 horas aprox.)</p>
+</div>
+<div class="section">
+<h2>🎯 Objetivo</h2>
+<p>Los alumnos instalarán y configurarán un servidor de correo con <strong>Postfix</strong> (SMTP), <strong>Dovecot</strong> (IMAP/POP3) y <strong>Roundcube</strong> (webmail), y conectarán clientes de correo (Thunderbird y navegador web) para enviar y recibir mensajes.</p>
+</div>
+<div class="section">
+<h2>🛠 Materiales Necesarios</h2>
+<ul>
+<li>Máquinas virtuales con <strong>Ubuntu Server 22.04 LTS</strong> (servidor) y <strong>Ubuntu Desktop</strong> (cliente)</li>
+<li>Conexión a internet para descargar paquetes</li>
+<li>Acceso root o usuario con sudo</li>
+</ul>
+</div>
+<div class="section">
+<h2>🔧 Pasos de la Actividad<code></code></h2>
+<h2 data-pm-slice="1 1 []"><span>1. Preparación e instalación de la máquina virtual con Ubuntu Server 22.04</span></h2>
+<h2><code></code></h2>
+<h3><span>1.1. Crear la máquina virtual en VirtualBox</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>En VirtualBox, haz clic en </span><span><strong>Nueva</strong></span><span>.</span></p>
+</li>
+<li>
+<p><span>Asigna un nombre a tu VM, por ejemplo, </span><code><span>ServidorCorreo</span></code><span>.</span></p>
+</li>
+<li>
+<p><span>Selecciona </span><span><strong>Linux</strong></span><span> como tipo de sistema operativo y </span><span><strong>Ubuntu (64-bit)</strong></span><span> como versión.</span></p>
+</li>
+<li>
+<p><span>Asigna una cantidad de </span><span><strong>memoria RAM</strong></span><span> adecuada, p. ej. 2 GB (2048 MB) o más.</span></p>
+</li>
+<li>
+<p><span>Crea un </span><span><strong>disco duro virtual</strong></span><span> de al menos 20 GB.</span></p>
+</li>
+<li>
+<p><span>En </span><span><strong>Configuración</strong></span><span> de la VM, en el apartado </span><span><strong>Red</strong></span><span>, configura el </span><span><strong>Adaptador de red</strong></span><span> en modo </span><span><strong>Red interna</strong></span><span> o </span><span><strong>Adaptador puente</strong></span><span>, dependiendo de tus necesidades. Es importante que las máquinas (servidor y cliente) estén en la misma red.</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<h3><span>1.2. Instalar Ubuntu Server 22.04</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>Descarga la ISO de Ubuntu Server 22.04 desde la </span><a href="https://ubuntu.com/download/server" disabled="disabled"><span>página oficial de Ubuntu</span></a><span>.</span></p>
+</li>
+<li>
+<p><span>Inicia la VM de </span><code><span>ServidorCorreo</span></code><span> y selecciona la ISO descargada para arrancar desde ella.</span></p>
+</li>
+<li>
+<p><span>Sigue las instrucciones del instalador:</span></p>
+<ul data-spread="false">
+<li>
+<p><span>Selecciona </span><span><strong>Instalar Ubuntu Server</strong></span><span>.</span></p>
+</li>
+<li>
+<p><span>Elige el </span><span><strong>idioma</strong></span><span> y la </span><span><strong>distribución de teclado</strong></span><span>.</span></p>
+</li>
+<li>
+<p><span>Configura la </span><span><strong>dirección IP</strong></span><span> (estática o DHCP según convenga). Para un servidor de correo, suele ser recomendable una IP estática.</span></p>
+</li>
+<li>
+<p><span>Crea tu </span><span><strong>usuario administrador</strong></span><span> y contraseña.</span></p>
+</li>
+<li>
+<p><span>Asigna un </span><span><strong>nombre de equipo</strong></span><span> (hostname), por ejemplo </span><code><span>mailserver</span></code><span>.</span></p>
+</li>
+<li>
+<p><span>Completa la instalación y reinicia.</span></p>
+</li>
+</ul>
+</li>
+</ol>
+<h2><code></code></h2>
+<h3><span>1.3. Actualizar el sistema</span></h3>
+<h2><code></code></h2>
+<p><span>Tras iniciar sesión, asegúrate de que tu servidor Ubuntu está actualizado:</span></p>
+<h2><code></code></h2>
+<pre><code><span>sudo apt update
+sudo apt upgrade -y</span></code></pre>
+<h2><code></code></h2>
+<div><hr /></div>
+<h2><code></code></h2>
+<h2><span>2. Configuración de Postfix</span></h2>
+<h2><code></code></h2>
+<h3><span>2.1. Instalar Postfix</span></h3>
+<h2><code></code></h2>
+<pre><code><span>sudo apt install postfix -y</span></code></pre>
+<h2><code></code></h2>
+<p><span>Durante la instalación, te pedirá que elijas el tipo de configuración de Postfix. Selecciona </span><span><strong>"Sitio de Internet"</strong></span><span> (Internet Site) y, cuando se solicite, introduce el </span><span><strong>nombre de correo</strong></span><span> (system mail name) que coincida con tu dominio o subdominio deseado (p. ej., </span><code><span>midominio.local</span></code><span> o </span><code><span>mail.local</span></code><span>).</span></p>
+<h2><code></code></h2>
+<blockquote>
+<p><span><strong>Nota</strong></span><span>: En un entorno real, conviene apuntar el DNS al servidor y disponer de un dominio con registros MX. Para una práctica local, bastará con usar un dominio ficticio (p. ej. </span><code><span>ejemplo.local</span></code><span>).</span></p>
+</blockquote>
+<h2><code></code></h2>
+<h3><span>2.2. Verificar el archivo principal de configuración</span></h3>
+<h2><code></code></h2>
+<p><span>Abre </span><code><span>/etc/postfix/main.cf</span></code><span> para comprobar que coincide el nombre de host y dominio, y que la línea </span><code><span>myhostname</span></code><span> y </span><code><span>mydomain</span></code><span> estén bien configuradas. Un ejemplo:</span></p>
+<h2><code></code></h2>
+<pre><code><span>myhostname = mail.ejemplo.local
+mydomain = ejemplo.local
+myorigin = $mydomain
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+relayhost =
+mynetworks = 127.0.0.0/8, [::1]/128
+home_mailbox = Maildir/
+smtpd_banner = $myhostname ESMTP</span></code></pre>
+<h2><code></code></h2>
+<p><span>Si realizas cambios, reinicia Postfix:</span></p>
+<h2><code></code></h2>
+<pre><code><span>sudo systemctl restart postfix</span></code></pre>
+<h2><code></code></h2>
+<div><hr /></div>
+<h2><code></code></h2>
+<h2><span>3. Configuración de Dovecot</span></h2>
+<h2><code></code></h2>
+<h3><span>3.1. Instalar Dovecot</span></h3>
+<h2><code></code></h2>
+<pre><code><span>sudo apt install dovecot-core dovecot-imapd dovecot-pop3d -y</span></code></pre>
+<h2><code></code></h2>
+<h3><span>3.2. Configurar Dovecot para Maildir</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>Edita el archivo </span><code><span>/etc/dovecot/dovecot.conf</span></code><span> y asegúrate de que el protocolo deseado (IMAP y/o POP3) está habilitado.</span></p>
+</li>
+<li>
+<p><span>En </span><code><span>/etc/dovecot/conf.d/10-mail.conf</span></code><span>, revisa la ruta de almacenamiento. Se recomienda </span><code><span>Maildir</span></code><span>:</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<pre><code><span>mail_location = maildir:~/Maildir</span></code></pre>
+<h2><code></code></h2>
+<ol data-spread="false" start="3">
+<li>
+<p><span>En </span><code><span>/etc/dovecot/conf.d/10-auth.conf</span></code><span>, habilita la autenticación típica:</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<pre><code><span>disable_plaintext_auth = no
+auth_mechanisms = plain login</span></code></pre>
+<h2><code></code></h2>
+<ol data-spread="false" start="4">
+<li>
+<p><span>Revisa </span><code><span>/etc/dovecot/conf.d/10-master.conf</span></code><span> para que el servicio de autenticación (auth) escuche adecuadamente.</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<p><span>Tras editar, reinicia Dovecot:</span></p>
+<h2><code></code></h2>
+<pre><code><span>sudo systemctl restart dovecot</span></code></pre>
+<h2><code></code></h2>
+<div><hr /></div>
+<h2><code></code></h2>
+<h2><span>4. Creación de cuentas de correo</span></h2>
+<h2><code></code></h2>
+<p><span>Para este ejemplo, crearemos dos usuarios locales, </span><code><span>usuario1</span></code><span> y </span><code><span>usuario2</span></code><span>. El correo se almacenará en </span><code><span>~/Maildir</span></code><span> (Maildir) de cada usuario.</span></p>
+<h2><code></code></h2>
+<pre><code><span>sudo adduser usuario1
+# Se solicitará una contraseña y datos opcionales.
+
+sudo adduser usuario2
+# Se solicitará una contraseña y datos opcionales.</span></code></pre>
+<h2><code></code></h2>
+<p><span>Cada usuario tendrá su dirección de correo: </span><code><span>usuario1@ejemplo.local</span></code><span> y </span><code><span>usuario2@ejemplo.local</span></code><span>, asumiendo que tu dominio es </span><code><span>ejemplo.local</span></code><span>.</span></p>
+<h2><code></code></h2>
+<blockquote>
+<p><span><strong>Nota:</strong></span><span> Si no deseas cuentas de sistema, se puede configurar Postfix y Dovecot con usuarios virtuales, pero para una práctica básica, los usuarios del sistema son suficientes.</span></p>
+</blockquote>
+<h2><code></code></h2>
+<div><hr /></div>
+<h2><code></code></h2>
+<h2><span>5. Instalación y configuración de Roundcube</span></h2>
+<h2><code></code></h2>
+<h3><span>5.1. Instalar servidor web y PHP</span></h3>
+<h2><code></code></h2>
+<pre><code><span>sudo apt install apache2 php php-cli php-curl php-mbstring php-xml php-zip php-intl php-sqlite3 -y</span></code></pre>
+<h2><code></code></h2>
+<p><span>(Se puede usar Nginx en lugar de Apache si se prefiere.)</span></p>
+<h2><code></code></h2>
+<h3><span>5.2. Instalar Roundcube</span></h3>
+<h2><code></code></h2>
+<pre><code><span>sudo apt install roundcube roundcube-core roundcube-mysql roundcube-plugins -y</span></code></pre>
+<h2><code></code></h2>
+<p><span>El instalador preguntará por la configuración de la base de datos. Si deseas usar SQLite para simplicidad, elige esa opción. Si usas MySQL/MariaDB, asegúrate de crear la base de datos y el usuario adecuados.</span></p>
+<h2><code></code></h2>
+<h3><span>5.3. Verificar la configuración de Roundcube</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>Comprueba el archivo de configuración de Roundcube, normalmente en </span><code><span>/etc/roundcube/config.inc.php</span></code><span>.</span></p>
+</li>
+<li>
+<p><span>Ajusta el parámetro </span><code><span>default_host</span></code><span> al nombre de tu servidor IMAP (p. ej. </span><code><span>mail.ejemplo.local</span></code><span>).</span></p>
+</li>
+<li>
+<p><span>Ajusta </span><code><span>smtp_server</span></code><span> a tu servidor SMTP (p. ej. </span><code><span>mail.ejemplo.local</span></code><span>).</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<h3><span>5.4. Comprobar acceso web</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>Abre un navegador en </span><span><strong>la misma red</strong></span><span> que el servidor.</span></p>
+</li>
+<li>
+<p><span>Accede a </span><code><span>http://&lt;IP_o_HOST_DEL_SERVIDOR&gt;/roundcube</span></code><span>.</span></p>
+</li>
+<li>
+<p><span>Inicia sesión con el usuario y contraseña (p. ej. </span><code><span>usuario1</span></code><span> / su contraseña).</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<p><span>Si todo está bien, Roundcube mostrará la bandeja de entrada.</span></p>
+<h2><code></code></h2>
+<div><hr /></div>
+<h2><code></code></h2>
+<h2><span>6. Prueba desde máquina virtual cliente</span></h2>
+<h2><code></code></h2>
+<h3><span>6.1. Crear la VM cliente en VirtualBox</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>En VirtualBox, haz clic en </span><span><strong>Nueva</strong></span><span> y nómbrala </span><code><span>ClienteCorreo</span></code><span>.</span></p>
+</li>
+<li>
+<p><span>Selecciona tipo Linux, según prefieras para probar. Puede ser un Ubuntu Desktop, u otra distro.</span></p>
+</li>
+<li>
+<p><span>Configura el adaptador de red de forma que coincida con el </span><span><strong>modo de red</strong></span><span> del servidor (Red interna o puente) para que estén en la misma subred.</span></p>
+</li>
+<li>
+<p><span>Instala el SO deseado.</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<h3><span>6.2. Acceder a Roundcube desde el cliente</span></h3>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>En el cliente, abre un navegador.</span></p>
+</li>
+<li>
+<p><span>Escribe la IP del servidor (p. ej. </span><code><span>http://192.168.1.100/roundcube</span></code><span>) o el hostname (</span><code><span>http://mail.ejemplo.local/roundcube</span></code><span>).</span></p>
+</li>
+<li>
+<p><span>Inicia sesión con </span><code><span>usuario1</span></code><span> y comprueba el envío y recepción de correos (por ejemplo, envía un correo a </span><code><span>usuario2</span></code><span>).</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<h3><span>6.3. Instalar Thunderbird y configurar las cuentas</span></h3>
+<h2><code></code></h2>
+<p><span>En tu cliente Linux, instala Thunderbird:</span></p>
+<h2><code></code></h2>
+<pre><code><span>sudo apt update
+sudo apt install thunderbird -y</span></code><span></span></pre>
+<h2><code></code></h2>
+<h2><code></code></h2>
+<h4><span>6.3.1. Configurar </span><code><span>usuario1</span></code><span> en Thunderbird</span></h4>
+<h2><code></code></h2>
+<ol data-spread="false" start="1">
+<li>
+<p><span>Abre </span><span><strong>Thunderbird</strong></span><span>.</span></p>
+</li>
+<li>
+<p><span>Cuando pida crear una cuenta, selecciona la opción de </span><span><strong>Usar una cuenta existente</strong></span><span>.</span></p>
+</li>
+<li>
+<p><span>Introduce:</span></p>
+<ul data-spread="false">
+<li>
+<p><span>Nombre: </span><code><span>Usuario 1</span></code></p>
+</li>
+<li>
+<p><span>Dirección de correo: </span><code><span>usuario1@ejemplo.local</span></code></p>
+</li>
+<li>
+<p><span>Contraseña: la que se configuró para el usuario1.</span></p>
+</li>
+</ul>
+</li>
+<li>
+<p><span>Thunderbird intentará detectar automáticamente los parámetros IMAP/SMTP.</span></p>
+</li>
+<li>
+<p><span>Ajusta manualmente si es necesario:</span></p>
+<ul data-spread="false">
+<li>
+<p><span>Servidor de entrada (IMAP): </span><code><span>mail.ejemplo.local</span></code><span> (puerto 143 o 993 si usas SSL).</span></p>
+</li>
+<li>
+<p><span>Servidor de salida (SMTP): </span><code><span>mail.ejemplo.local</span></code><span> (puerto 25 o 587 si has configurado STARTTLS).</span></p>
+</li>
+</ul>
+</li>
+<li>
+<p><span>Guarda la configuración.</span></p>
+</li>
+<li>
+<p><span>Envía un correo a </span><code><span>usuario2@ejemplo.local</span></code><span> y revisa la bandeja de envío y recepción.</span></p>
+</li>
+</ol>
+<h2><code></code></h2>
+<h4><span>6.3.2. Configurar </span><code><span>usuario2</span></code><span> (opcional)</span></h4>
+<h2><code></code></h2>
+<p><span>Repite los pasos anteriores para </span><code><span>usuario2</span></code><span> y comprueba que también se puedan enviar y recibir correos.</span></p>
+<h2><code></code></h2>
+<h2><code></code></h2>
+</div>
+<hr />
+<h2>7. Comprobaciones finales</h2>
+<ol>
+<li><strong>Envía correos</strong> de <code>usuario1</code> a <code>usuario2</code> y viceversa desde Roundcube y Thunderbird.</li>
+<li><strong>Verifica</strong> que llegan a la bandeja de entrada correspondiente y se pueden leer.</li>
+<li><strong>Prueba</strong> la interfaz de Roundcube para leer y contestar correos.</li>
+<li><strong>Observa</strong> los registros de Postfix y Dovecot en <code>/var/log/mail.log</code> y <code>/var/log/mail.err</code> si algo no funciona.</li>
+</ol>
+<div class="section">
+<h2>📝 Evaluación</h2>
+<ul>
+<li>Funcionalidad (50%): Correos enviados/recibidos en Thunderbird y Roundcube</li>
+<li>Configuración (30%): Archivos de configuración sin errores</li>
+<li>Documentación (20%): Informe con capturas de pantalla</li>
+</ul>
+</div>
+<div class="section">
+<h2>💡 Errores comunes y Documentación</h2>
+<ul>
+<li>Solución de errores comunes:
+<ul>
+<li>Certificados SSL: Aceptar excepciones en navegador</li>
+<li>Firewall: Verificar puertos abiertos con <code>sudo ufw status</code></li>
+</ul>
+</li>
+<li>Recursos: <a href="https://roundcube.net/doc/" target="_blank" rel="noopener">Documentación Oficial de Roundcube</a></li>
+</ul>
+</div></div>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Llicenciat sota la </span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Llicència Creative Commons Reconeixement CompartirIgual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="actividad_u4aev1_instalacin_de_un_sistema_completo_de_correo.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Pàgina  <strong>10</strong> de <strong>11</strong></span> <span class="sep">| </span><a href="bibliografa.html" class="next"><span>Següent<span> &raquo;</span></span></a>
+</nav>
+</div>
+</div>
+<script type="text/javascript" src="_class_presentation_js.js"></script>
+	<script type="text/javascript" src="prism.js"></script>
+	<script type="text/javascript" src="_class_presentation_rgc_js.js"></script></body></html>
