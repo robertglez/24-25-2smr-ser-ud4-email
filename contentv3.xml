@@ -15,7 +15,7 @@
   <string role="key" value="_addSearchBox"></string>
   <bool value="1"></bool>
   <string role="key" value="_author"></string>
-  <unicode value="Vicent Jordà"></unicode>
+  <unicode value="Vicent Jordà &amp;&amp; Roberto González"></unicode>
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
@@ -23,7 +23,7 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="Unitat didàctica de correu electrònic"></unicode>
+  <unicode value="Unidad didáctica de correo electrónico"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -73,11 +73,11 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
-  <unicode value="ca"></unicode>
+  <unicode value="es"></unicode>
   <string role="key" value="_learningResourceType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_levelNames"></string>
@@ -257,34 +257,34 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;h2&gt;1. Un poc d'història&lt;/h2&gt;
-&lt;p&gt;Fou durant una profunda reforma del servei de correus britànic encetada per James Chalmers i Rowland Hill, a mitjan segle XIX, quan es va emetre el primer segell postal. De fet, fins al moment de l’emissió dels segells era el destinatari qui pagava l’enviament en funció dels quilòmetres recorreguts en detriment del pes. De fet, va ser Hill qui va proposar que el pagament es realitzés en funció del pes.&lt;/p&gt;
-&lt;p&gt;Si bé, la implantació dels segells va tenir lloc a mitjan segle XIX, es considera que el format carta va sorgir amb la invenció de l’escriptura. De fet, la carta més antiga que es coneix és un papir escrit l’any 2200 a. C. per part del Faraó Pepi II. Ara bé, és inevitable afirmar que la utilització de la carta i els segells, a títol privat, va quedar desbancada progressivament amb l’aparició del correu electrònic i, posteriorment, els servidors web de correu electrònic gratuïts davant de la facilitat i la immediatesa a l’hora d’enviar i rebre les missives.&lt;/p&gt;
+             <unicode content="true" value="&lt;h2&gt;1. Un poco de historia&lt;/h2&gt;
+&lt;p&gt;Fue durante una profunda reforma del servicio de correos británico iniciada por James Chalmers y Rowland Hill, a mediados del siglo XIX, cuando se emitió el primer sello postal. De hecho, hasta el momento de la emisión de los sellos era el destinatario quien pagaba el envío en función de los kilómetros recorridos en detrimento del peso. De hecho, fue Hill quien propuso que el pago se realizara en función del peso.&lt;/p&gt;
+&lt;p&gt;Si bien, la implantación de los sellos tuvo lugar a mediados del siglo XIX, se considera que el formato carta surgió con la invención de la escritura. De hecho, la carta más antigua que se conoce es un papiro escrito en el año 2200 a. C. por parte del Faraón Pepi II. Ahora bien, es inevitable afirmar que la utilización de la carta y los sellos, a título privado, quedó desplazada progresivamente con la aparición del correo electrónico y, posteriormente, los servidores web de correo electrónico gratuitos ante la facilidad y la inmediatez a la hora de enviar y recibir los mensajes.&lt;/p&gt;
 &lt;div class=&quot;exe-figure exe-image position-center license-custom&quot; style=&quot;width: 509px;&quot;&gt;
 &lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Pedestal de Pepi II&lt;/strong&gt;&lt;/div&gt;
 &lt;img src=&quot;resources/Headrest_Pepi_II.jpg&quot; alt=&quot;Headrest Pepi II&quot; width=&quot;509&quot; height=&quot;115&quot; /&gt;
 &lt;div class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/User:Iry-Hor&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Iry-Hor&lt;/a&gt;. &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Headrest_Pepi_II.jpg&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Pedestal de Pepi II&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;custom-license&quot;&gt;By Iry-Hor (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons&lt;/span&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;En l'actualitat, moltes són les empreses de serveis que, sota la justificació de protegir el medi ambient, opten per l'enviament de documents de caràcter oficial (factures, informes, avisos, etc.) per correu electrònic en lloc de fer-ho mitjançant el correu ordinari.&lt;/p&gt;
-&lt;h2&gt;2. El correu electrònic&lt;/h2&gt;
-&lt;p&gt;A grans trets, és inevitable destacar que el sorgiment dels servidors web de correu electrònic gratuïts (&lt;strong&gt;webmail&lt;/strong&gt;) va comportar facilitar l’accés als comptes de correu electrònic i les comunicacions per Internet. Ara bé, l’element fonamental d’aquestes comunicacions per la xarxa és el correu electrònic, que va sorgir com a eina de comunicació interna entre diferents organismes oficials nord-americans.&lt;/p&gt;
-&lt;p&gt;De fet, fou l'any 1971 quan l'enginyer elèctric Ray Tomlinson va realitzar el primer intercanvi de correus electrònics entre dos ordinadors mitjançant dos programes (de transmissió i recepció) que havia creat uns anys enrere. Val a dir que Tomlinson formava part de l’empresa Bolt Beranek and Newman, que havia estat contractada pel Departament de Defensa dels Estats Units per a la creació d'una xarxa de comunicació entre ordinadors per l'Agència d’Investigació de Projectes Avançats (ARPA, &lt;em&gt;Advanced Research Projects Agency&lt;/em&gt;). La xarxa de comunicació entre ordinadors es va anomenar ARPANET i és considerada per molts com l'origen de l'actual xarxa d'Internet.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;En la actualidad, muchas son las empresas de servicios que, bajo la justificación de proteger el medio ambiente, optan por el envío de documentos de carácter oficial (facturas, informes, avisos, etc.) por correo electrónico en lugar de hacerlo mediante el correo ordinario.&lt;/p&gt;
+&lt;h2&gt;2. El correo electrónico&lt;/h2&gt;
+&lt;p&gt;A grandes rasgos, es inevitable destacar que el surgimiento de los servidores web de correo electrónico gratuitos (&lt;strong&gt;webmail&lt;/strong&gt;) facilitó el acceso a las cuentas de correo electrónico y las comunicaciones por Internet. Ahora bien, el elemento fundamental de estas comunicaciones por la red es el correo electrónico, que surgió como herramienta de comunicación interna entre diferentes organismos oficiales norteamericanos.&lt;/p&gt;
+&lt;p&gt;De hecho, fue en el año 1971 cuando el ingeniero eléctrico Ray Tomlinson realizó el primer intercambio de correos electrónicos entre dos ordenadores mediante dos programas (de transmisión y recepción) que había creado unos años atrás. Cabe decir que Tomlinson formaba parte de la empresa Bolt Beranek and Newman, que había sido contratada por el Departamento de Defensa de los Estados Unidos para la creación de una red de comunicación entre ordenadores por la Agencia de Investigación de Proyectos Avanzados (ARPA, &lt;em&gt;Advanced Research Projects Agency&lt;/em&gt;). La red de comunicación entre ordenadores se llamó ARPANET y es considerada por muchos como el origen de la actual red de Internet.&lt;/p&gt;
 &lt;div class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 500px;&quot;&gt;
-&lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Ray Tomlinson, el pare del correu electrònic&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Ray Tomlinson, el padre del correo electrónico&lt;/strong&gt;&lt;/div&gt;
 &lt;img src=&quot;resources/ray-tomlinson-inventor-del-email-fallece-a-los-74-anos.jpg&quot; alt=&quot;Ray Tomlinson&quot; width=&quot;500&quot; height=&quot;281&quot; /&gt;
 &lt;div class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://www.elconfidencial.com/tecnologia/2016-03-06/el-inventor-del-email-ray-tomlinson-fallece-a-los-74-anos_1164057/&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Ray Tomlinson&lt;/em&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;La intenció de Tomlinson era facilitar la comunicació entre dos ordinadors connectats a la xarxa ARPANET, ja que, fins al moment, aquesta comunicació entre usuaris es basava a col·locar en un directori predeterminat l'arxiu que contenia el missatge que es volia transmetre. Posteriorment, quan l'usuari volia conèixer si tenia correu, accedia a aquest directori i en mirava el contingut. Per tant, la creació de Tomlinson no sols va facilitar la comunicació entre dos ordinadors, sinó que va provocar que aflorés una nova qüestió consistent en la necessitat d'identificar les màquines emissores i receptores.&lt;/p&gt;
-&lt;p&gt;En conseqüència, amb la intenció de definir la separació entre el nom de l'usuari i la màquina des d'on s'enviava o rebia el correu electrònic, Tomlinson va optar pel símbol arrova (@), això és, un caràcter que, per exemple, no aparegués en els noms propis de les persones.&lt;/p&gt;
+&lt;p&gt;La intención de Tomlinson era facilitar la comunicación entre dos ordenadores conectados a la red ARPANET, ya que, hasta el momento, esta comunicación entre usuarios se basaba en colocar en un directorio predeterminado el archivo que contenía el mensaje que se quería transmitir. Posteriormente, cuando el usuario quería saber si tenía correo, accedía a este directorio y miraba el contenido. Por lo tanto, la creación de Tomlinson no solo facilitó la comunicación entre dos ordenadores, sino que provocó que surgiera una nueva cuestión consistente en la necesidad de identificar las máquinas emisoras y receptoras.&lt;/p&gt;
+&lt;p&gt;En consecuencia, con la intención de definir la separación entre el nombre del usuario y la máquina desde donde se enviaba o recibía el correo electrónico, Tomlinson optó por el símbolo arroba (@), esto es, un carácter que, por ejemplo, no apareciera en los nombres propios de las personas.&lt;/p&gt;
 &lt;blockquote class=&quot;destacado&quot;&gt;
-&lt;p&gt;L'esquema de les adreces de correu electrònic és &lt;code&gt;usuari@servidor&lt;/code&gt;, per exemple, &lt;code&gt;serveisenxarxa@gmail.com&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;El esquema de las direcciones de correo electrónico es &lt;code&gt;usuario@servidor&lt;/code&gt;, por ejemplo, &lt;code&gt;serveisenxarxa@gmail.com&lt;/code&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Anys després, es va crear el protocol simple de transferència de correu (SMTP, &lt;em&gt;simple mail transfer protocol&lt;/em&gt;), això és, un protocol estàndard que s'utilitzava per intercanviar missatges entre servidors mitjançant connexions de punt a punt. De fet, aquells usuaris que volien consultar el correu electrònic havien d'accedir mitjançant el seu ordinador a un servidor al qual sol·licitaven la descàrrega dels missatges que haguessin rebut.&lt;/p&gt;
-&lt;p&gt;Posteriorment, fou durant els anys 80 del segle XX quan, davant del notable augment d'usuaris que disposaven d'accés a la xarxa d'Internet, va sorgir la necessitat de crear un protocol que facilités l'accés a Internet i, alhora, a serveis bàsics com el correu electrònic. De fet, fou així com va néixer el protocol de l'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) adreçat a la gestió dels correus electrònics (E-mail, &lt;em&gt;Electronic Mail&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Val a dir que aquest protocol va anar evolucionant fins al sorgiment de versions avançades i millorades com, per exemple, el POP2 i el POP3, que oferien una millor gestió dels missatges de correu electrònic.&lt;/p&gt;
-&lt;p&gt;Va ser així com, mitjançant els protocols SMTP i POP, va quedar resolta la transmissió de correus electrònics mitjançant la xarxa d'Internet, tot i que, amb aquests protocols només es podien enviar missatges en format de text ASCII. Val a dir que durant un temps es van utilitzar programes que facilitaven tant la codificació com la descodificació fins que, a principis dels anys 90, van sorgir les extensions de correu d'Internet de multipropòsit (MIME, &lt;em&gt;Multipurpose Internet Mail Extensions&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Per últim, és important destacar que, a mitjan anys 90 va sorgir el protocol d'accés als missatges d’Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;), que oferia moltes més funcionalitats que el protocol POP i, a més, permetia integrar el correu electrònic a un navegador web.&lt;/p&gt;
-&lt;p&gt;Actualment, el protocol simple de transferència de correu (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;) s'utilitza per l'enviament dels correus electrònics i, d'altra banda, el protocol de l'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) en la seva tercera versió (POP3) s'utilitza per a la recepció dels correus.&lt;/p&gt;"></unicode>
+&lt;p&gt;Años después, se creó el protocolo simple de transferencia de correo (SMTP, &lt;em&gt;simple mail transfer protocol&lt;/em&gt;), esto es, un protocolo estándar que se utilizaba para intercambiar mensajes entre servidores mediante conexiones de punto a punto. De hecho, aquellos usuarios que querían consultar el correo electrónico debían acceder mediante su ordenador a un servidor al que solicitaban la descarga de los mensajes que hubieran recibido.&lt;/p&gt;
+&lt;p&gt;Posteriormente, fue durante los años 80 del siglo XX cuando, ante el notable aumento de usuarios que disponían de acceso a la red de Internet, surgió la necesidad de crear un protocolo que facilitara el acceso a Internet y, al mismo tiempo, a servicios básicos como el correo electrónico. De hecho, fue así como nació el protocolo de la oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) dirigido a la gestión de los correos electrónicos (E-mail, &lt;em&gt;Electronic Mail&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Cabe decir que este protocolo fue evolucionando hasta el surgimiento de versiones avanzadas y mejoradas como, por ejemplo, el POP2 y el POP3, que ofrecían una mejor gestión de los mensajes de correo electrónico.&lt;/p&gt;
+&lt;p&gt;Fue así como, mediante los protocolos SMTP y POP, quedó resuelta la transmisión de correos electrónicos mediante la red de Internet, aunque, con estos protocolos solo se podían enviar mensajes en formato de texto ASCII. Cabe decir que durante un tiempo se utilizaron programas que facilitaban tanto la codificación como la decodificación hasta que, a principios de los años 90, surgieron las extensiones de correo de Internet de propósito general (MIME, &lt;em&gt;Multipurpose Internet Mail Extensions&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Por último, es importante destacar que, a mediados de los años 90 surgió el protocolo de acceso a los mensajes de Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;), que ofrecía muchas más funcionalidades que el protocolo POP y, además, permitía integrar el correo electrónico en un navegador web.&lt;/p&gt;
+&lt;p&gt;Actualmente, el protocolo simple de transferencia de correo (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;) se utiliza para el envío de los correos electrónicos y, por otro lado, el protocolo de la oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) en su tercera versión (POP3) se utiliza para la recepción de los correos.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -304,7 +304,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1024"></int>
+                    <int value="1027"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -318,7 +318,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="0_86.28"></unicode>
+                  <unicode value="0_86.30"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="8">
                    <dictionary>
@@ -329,7 +329,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Headrest_Pepi_II.jpg"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpb4h6_m\\Headrest_Pepi_II.jpg"></string>
+                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmph7fivf\\Headrest_Pepi_II.jpg"></string>
                     <string role="key" value="checksum"></string>
                     <string value="5d0bb04f42751dc17734a277e4a740eb"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -356,7 +356,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1025"></int>
+                    <int value="1028"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -370,7 +370,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="0_86.29"></unicode>
+                  <unicode value="0_86.31"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="9">
                    <dictionary>
@@ -381,7 +381,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="ray-tomlinson-inventor-del-email-fallece-a-los-74-anos.jpg"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpb4h6_m\\ray-tomlinson-inventor-del-email-fallece-a-los-74-anos.jpg"></string>
+                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmph7fivf\\ray-tomlinson-inventor-del-email-fallece-a-los-74-anos.jpg"></string>
                     <string role="key" value="checksum"></string>
                     <string value="765f7cf94d12e480a540110806e31342"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -410,7 +410,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="30"></int>
+             <int value="32"></int>
              <string role="key" value="parentNode"></string>
              <reference key="7"></reference>
             </dictionary>
@@ -508,32 +508,24 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;L'enviament i la recepció de correus electrònics comporta la intervenció de més d'un protocol d'aplicació i, en conseqüència, de més d'un tipus de servidor. Aquesta separació en funció de diferents protocols es basa en el fet que la comunicació via correu electrònic entre dos usuaris no és un procés client-servidor síncron. És a dir, quan un usuari envia un correu electrònic no té la certesa que el destinatari estigui connectat i, en conseqüència, el missatge haurà de ser emmagatzemat per poder ser llegit més endavant.&lt;/p&gt;
-&lt;p&gt;Dins d'aquesta comunicació asíncrona intervenen algunes funcionalitats ben diferenciades com són l'agent de transferència de correu (MTA,&lt;em&gt; Mail Transfer Agent&lt;/em&gt;), l'agent de lliurament de correu (MDA, &lt;em&gt;Mail Delivery Agent&lt;/em&gt;) i l'agent d'usuari de correu (MUA, &lt;em&gt;Mail User Agent&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Els &lt;strong&gt;agents de transferència de correu&lt;/strong&gt; (MTA, &lt;em&gt;Mail transfer Agent&lt;/em&gt;) utilitzen el protocol simple de transferència de fitxers (SMTP, &lt;em&gt;Simple Mail transfer Protocol&lt;/em&gt;) per comunicar-se amb altres agents de transferència de correu i amb els clients de correu electrònic. Val a dir que els agents de transferència de correu s'anomenen “servidors de correu”, atès que s'encarreguen de rebre el correu i lliurar-lo on correspongui.&lt;/p&gt;
-&lt;p&gt;D'altra banda, els&lt;strong&gt; agents de lliurament de correu&lt;/strong&gt; són els “servidors de recollida de correu”, és a dir, la seva missió és copiar els missatges del servidor de correu a la bústia de correu de l'usuari. Considerant que aquests agents permetran als clients de correu la recol·lecció dels missatges emmagatzemats en bústies remotes, és possible afirmar que els protocols POP i IMAP són agents MDA.&lt;/p&gt;
-&lt;p&gt;Per últim, els &lt;strong&gt;agents d'usuari de correu&lt;/strong&gt; són programes que executen l'usuari per la lectura del correu entrant, o bé, enviar missatges de correu electrònic. Els agents d'usuari de correu (MUA) es comuniquen amb els agents de transferència de correu (MTA) mitjançant el protocol simple de transferència de correu. Aquests programes són els anomenats clients de correu i posseeixen una interfície que faciliten a l'usuari l'edició, recepció i enviament de correus electrònics. A mode d'exemple, podríem destacar clients de correu com l'Outlook, Pegasus, Thunderbird, Eudora, etc.&lt;/p&gt;
-&lt;p&gt;Tal com mostra la figura següent tots aquests elements tenen força rellevància dins del procés bàsic d'enviament d'un correu electrònic.&lt;/p&gt;
+             <unicode content="true" value="&lt;p&gt;El envío y la recepción de correos electrónicos conlleva la intervención de más de un protocolo de aplicación y, en consecuencia, de más de un tipo de servidor. Esta separación en función de diferentes protocolos se basa en el hecho de que la comunicación vía correo electrónico entre dos usuarios no es un proceso cliente-servidor síncrono. Es decir, cuando un usuario envía un correo electrónico no tiene la certeza de que el destinatario esté conectado y, en consecuencia, el mensaje deberá ser almacenado para poder ser leído más adelante.&lt;/p&gt;
+&lt;p&gt;Dentro de esta comunicación asíncrona intervienen algunas funcionalidades bien diferenciadas como son el agente de transferencia de correo (MTA, &lt;em&gt;Mail Transfer Agent&lt;/em&gt;), el agente de entrega de correo (MDA, &lt;em&gt;Mail Delivery Agent&lt;/em&gt;) y el agente de usuario de correo (MUA, &lt;em&gt;Mail User Agent&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Los &lt;strong&gt;agentes de transferencia de correo&lt;/strong&gt; (MTA, &lt;em&gt;Mail Transfer Agent&lt;/em&gt;) utilizan el protocolo simple de transferencia de archivos (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;) para comunicarse con otros agentes de transferencia de correo y con los clientes de correo electrónico. Cabe decir que los agentes de transferencia de correo se llaman &quot;servidores de correo&quot;, ya que se encargan de recibir el correo y entregarlo donde corresponda.&lt;/p&gt;
+&lt;p&gt;Por otro lado, los &lt;strong&gt;agentes de entrega de correo&lt;/strong&gt; son los &quot;servidores de recogida de correo&quot;, es decir, su misión es copiar los mensajes del servidor de correo al buzón de correo del usuario. Considerando que estos agentes permitirán a los clientes de correo la recolección de los mensajes almacenados en buzones remotos, es posible afirmar que los protocolos POP e IMAP son agentes MDA.&lt;/p&gt;
+&lt;p&gt;Por último, los &lt;strong&gt;agentes de usuario de correo&lt;/strong&gt; son programas que ejecuta el usuario para la lectura del correo entrante o bien para enviar mensajes de correo electrónico. Los agentes de usuario de correo (MUA) se comunican con los agentes de transferencia de correo (MTA) mediante el protocolo simple de transferencia de correo. Estos programas son los llamados clientes de correo y poseen una interfaz que facilita al usuario la edición, recepción y envío de correos electrónicos. A modo de ejemplo, podríamos destacar clientes de correo como Outlook, Pegasus, Thunderbird, Eudora, etc.&lt;/p&gt;
+&lt;p&gt;Tal como muestra la figura siguiente, todos estos elementos tienen mucha relevancia dentro del proceso básico de envío de un correo electrónico.&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 500px;&quot;&gt;
-&lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Esquema del procés de transmissió de correu electrònic&lt;/strong&gt;&lt;/div&gt;
-&lt;img src=&quot;resources/smxm7uf1ud2_im46.png&quot; alt=&quot;Esquema del procés de transmissió de correu electrònic&quot; title=&quot;Esquema del procés de transmissió de correu electrònic&quot; width=&quot;500&quot; height=&quot;377&quot; /&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;em&gt;Esquema del procés de transmissió de correu electrònic&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=ca-ES&quot; rel=&quot;license nofollow noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Esquema del proceso de transmisión de correo electrónico&lt;/strong&gt;&lt;/div&gt;
+&lt;img src=&quot;resources/smxm7uf1ud2_im46.png&quot; alt=&quot;Esquema del proceso de transmisión de correo electrónico&quot; title=&quot;Esquema del proceso de transmisión de correo electrónico&quot; width=&quot;500&quot; height=&quot;377&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;em&gt;Esquema del proceso de transmisión de correo electrónico&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es-ES&quot; rel=&quot;license nofollow noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;En aquest cas, l'usuari &lt;code&gt;bernat@tardor&lt;/code&gt; vol enviar un correu electrònic a l'usuari &lt;code&gt;mar@estiu&lt;/code&gt;. Per fer-ho, l'usuari redacta un missatge amb el seu agent d'usuari de correu (MUA) i l'envia.&lt;/p&gt;
-&lt;p&gt;Un cop l'agent de transferència de correu (MTA) de tardor rep el missatge, determina el punt d'entrega. Com que no es tracta d'un compte d'un usuari local (tenen dominis diferents), certifica que &lt;code&gt;bernat@tardor&lt;/code&gt; té permís per utilitzar aquest agent de transferència de correu (MTA) per enviar correus a d'altres servidors -això és rellevant, per exemple, per evitar que s'utilitzi un agent de transferència de correu (MTA) de forma indiscriminada per enviar correu com si es tractés de correu brossa.&lt;/p&gt;
-&lt;p&gt;Definitivament, el correu anirà adreçat a un altre servidor i, a més, el client que l'envia té permís per utilitzar l'agent de transferència de correu (MTA). Per tant, el servidor de tardor utilitza el protocol SMTP per entregar el correu a l'agent de transferència de correu (MTA) d'estiu. Quan el servidor d'estiu hagi rebut el missatge, determinarà el punt d'entrega que, en aquest cas, és en un compte local. Per tant, s'adreçarà a la bústia corresponent i finalitzarà l'entrega deixant-hi el correu.&lt;/p&gt;
-&lt;p&gt;Per últim, en un altre extrem de la xarxa, l'usuari &lt;code&gt;mar@estiu&lt;/code&gt; utilitza el seu agent d'usuari de correu (MUA) per comprovar si té algun correu nou. En aquest cas utilitzarà el protocol POP3 de recollida de correu. Val a dir que el servidor POP3 d'estiu comprova que l'usuari sí que tingui correu (el que li va enviar &lt;code&gt;bernat@tardor&lt;/code&gt;) i l'entrega al seu agent d'usuari de correu (MUA). És, arribats en aquest punt, quan finalitza la recollida.&lt;/p&gt;
-&lt;h3&gt;Els comptes de correu electrònic&lt;/h3&gt;
-&lt;p&gt;El concepte correu electrònic (E-mail, &lt;em&gt;Electronic mail&lt;/em&gt;) fa referència al sistema que permet redactar, enviar i rebre missatges mitjançant sistemes de comunicació electrònica. En conseqüència, considerant que la xarxa d'Internet és la xarxa de comunicacions universal arreu del món, és lògic que els sistemes de correu electrònic utilitzin Internet. És més, el correu electrònic ha esdevingut tant un element imprescindible en el nostre dia a dia com un dels elements més rellevants de l'evolució tecnològica recent.&lt;/p&gt;
-&lt;p&gt;La majoria dels correus electrònics es transmeten mitjançant servidors que treballen amb el protocol simple de transferència de correus (SMTP,&lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;) i tant pot ser de caràcter privat, empresarial o institucional.&lt;/p&gt;
-&lt;p&gt;De fet, els comptes de correu electrònic més populars pertanyen a llocs web de caràcter privat (pertanyen a empreses) que ofereixen un espai en el seus servidors perquè qualsevol qui ho desitgi pugui accedir-hi, crear un compte de correu electrònic i deixar-hi els missatges rebuts. Aquestes companyies (Microsoft, Google, Yahoo) que ofereixen capacitat de disc dels seus servidors i, alhora, gestionen l'enviament i la recepció dels correus electrònics sense cap despesa per part de l'usuari amortitzen la despesa provocada per proporcionar aquest servei mitjançant la incorporació de publicitat.&lt;/p&gt;
-&lt;p&gt;De fet, són molts els comptes de correu electrònic que, en funció del títol (o assumpte) del correu electrònic rebut, els apareix publicitat relacionada. Per exemple, si estem intercanviant-nos correus electrònics per parlar d'una acampada que realitzarem a finals d'any, la publicitat que sorgirà dins del compte de correu electrònic estarà relacionada, per exemple, amb materials per fer muntanya, tendes de campanya, fogonets, etc.&lt;/p&gt;
-&lt;p&gt;Aquestes accions publicitàries de les companyies que ofereixen comptes de correu electrònic (i la seva gestió) busquen fidelitzar possibles empreses interessades a incorporar publicitat en aquell lloc web (dins dels diferents comptes) davant d'una concreció dels usuaris a qui s'adreci mitjançant l'anàlisi de l'assumpte del correu electrònic enviat o rebut.&lt;/p&gt;
-&lt;h3&gt;Instal·lació d'un servei de correu electrònic&lt;/h3&gt;
-&lt;p&gt;L'estructura d'un compte de correu electrònic és determinada per una adreça composta per dues parts fonamentals, això és, l'usuari i el domini amb el símbol arrova entremig. Per tant, l'adreça de correu electrònic té la forma &lt;code&gt;usuari@domini.exemple&lt;/code&gt;. La part corresponent a l'usuari correspon al nom d'usuari que s'utilitzarà per validar-se en una màquina remota. D'altra banda, el domini correspon a l'adreça electrònica de l'ordinador o conjunt d'ordinadors que s'encarregaran de distribuir el correu als usuaris. Per exemple, l'adreça &lt;code&gt;alumne@cicles.cat&lt;/code&gt; representa l'adreça electrònica d'un usuari alumne que es connecta a una màquina el domini de la qual és &lt;code&gt;cicles.cat&lt;/code&gt; i es llegeix com a alumne en &lt;code&gt;cicles.cat&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;A títol pràctic, quan un usuari envia un missatge de correu electrònic, aquest queda emmagatzemat en el servidor de correu de la bústia del destinatari. Per tant, quan el destinatari vulgui consultar el seu correu electrònic es connectarà al seu servidor de correu i podrà consultar els missatges mitjançant web o baixar-los a la seva màquina mitjançant un programa de correu. Òbviament, en un servei de correu no és necessari que l'emissor i el receptor coincideixin ni en l'espai ni en el temps.&lt;/p&gt;
-&lt;p&gt;Arribats en aquest punt, ja podem començar a treballar amb servidor de correu electrònic, és a dir, un sistema de correu que, principalment, gestionarà els protocols d'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) i el protocol simple de transferència de correus (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;"></unicode>
+&lt;p&gt;En este caso, el usuario &lt;code&gt;bernat@tardor&lt;/code&gt; quiere enviar un correo electrónico al usuario &lt;code&gt;mar@estiu&lt;/code&gt;. Para hacerlo, el usuario redacta un mensaje con su agente de usuario de correo (MUA) y lo envía.&lt;/p&gt;
+&lt;p&gt;Una vez que el agente de transferencia de correo (MTA) de tardor recibe el mensaje, determina el punto de entrega. Como no se trata de una cuenta de un usuario local (tienen dominios diferentes), certifica que &lt;code&gt;bernat@tardor&lt;/code&gt; tiene permiso para utilizar este agente de transferencia de correo (MTA) para enviar correos a otros servidores -esto es relevante, por ejemplo, para evitar que se utilice un agente de transferencia de correo (MTA) de forma indiscriminada para enviar correos como si fueran spam.&lt;/p&gt;
+&lt;p&gt;Definitivamente, el correo será dirigido a otro servidor y, además, el cliente que lo envía tiene permiso para utilizar el agente de transferencia de correo (MTA). Por lo tanto, el servidor de tardor utiliza el protocolo SMTP para entregar el correo al agente de transferencia de correo (MTA) de estiu. Cuando el servidor de estiu haya recibido el mensaje, determinará el punto de entrega que, en este caso, es en una cuenta local. Por lo tanto, se dirigirá al buzón correspondiente y finalizará la entrega dejando allí el correo.&lt;/p&gt;
+&lt;p&gt;Por último, en otro extremo de la red, el usuario &lt;code&gt;mar@estiu&lt;/code&gt; utiliza su agente de usuario de correo (MUA) para comprobar si tiene algún correo nuevo. En este caso utilizará el protocolo POP3 de recogida de correo. Cabe decir que el servidor POP3 de estiu comprueba que el usuario sí tenga correo (el que le envió &lt;code&gt;bernat@tardor&lt;/code&gt;) y lo entrega a su agente de usuario de correo (MUA). Es, llegado a este punto, cuando finaliza la recogida.&lt;/p&gt;
+&lt;h3&gt;Las cuentas de correo electrónico&lt;/h3&gt;
+&lt;p&gt;El concepto correo electrónico (E-mail, &lt;em&gt;Electronic mail&lt;/em&gt;) hace referencia al sistema que permite redactar, enviar y recibir mensajes mediante sistemas de comunicación electrónica. En consecuencia, considerando que la red de Internet es la red de comunicaciones universal en todo el mundo, es lógico que los sistemas de correo electrónico utilicen Internet. Es más, el correo electrónico se ha convertido tanto en un elemento imprescindible en nuestro día a día como en uno de los elementos más relevantes de la evolución tecnológica reciente.&lt;/p&gt;
+&lt;p&gt;La mayoría de los correos electrónicos se transmiten mediante servidores que trabajan con el protocolo simple de transferencia de correos (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;) y pueden ser de carácter privado, empresarial o institucional.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -553,7 +545,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1026"></int>
+                    <int value="1029"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -567,7 +559,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="2_86.24"></unicode>
+                  <unicode value="2_86.25"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="13">
                    <dictionary>
@@ -578,7 +570,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="smxm7uf1ud2_im46.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpb4h6_m\\smxm7uf1ud2_im46.png"></string>
+                    <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmph7fivf\\smxm7uf1ud2_im46.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="1304bb34142a5b06069716da52c7543f"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -607,7 +599,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="25"></int>
+             <int value="26"></int>
              <string role="key" value="parentNode"></string>
              <reference key="12"></reference>
             </dictionary>
@@ -704,35 +696,35 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;A grans trets, per poder enviar o rebre un correu electrònic necessitem disposar d’un compte de correu en una màquina anomenada servidor de correu (MTA,&lt;em&gt;Mail Transfer Agent&lt;/em&gt;). En conseqüència, és lògic que, amb la finalitat de realitzar aquesta acció, els usuaris han d'estar connectats a la xarxa de Internet.&lt;/p&gt;
+             <unicode content="true" value="&lt;p&gt;A grandes rasgos, para poder enviar o recibir un correo electrónico necesitamos disponer de una cuenta de correo en una máquina llamada servidor de correo (MTA, &lt;em&gt;Mail Transfer Agent&lt;/em&gt;). En consecuencia, es lógico que, con el fin de realizar esta acción, los usuarios deban estar conectados a la red de Internet.&lt;/p&gt;
 &lt;blockquote class=&quot;destacado&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Client de correu electrònic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Són aplicacions que permeten relacionar els usuaris amb les seves bústies corresponents i els permet realitzar la descàrrega i gestió de missatges de correu utilitzant uns determinats protocols (POP3 i IMAP).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cliente de correo electrónico&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Son aplicaciones que permiten relacionar a los usuarios con sus buzones correspondientes y les permiten realizar la descarga y gestión de mensajes de correo utilizando determinados protocolos (POP3 e IMAP).&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Considerant que el correu electrònic es basa en l’arquitectura client-servidor on el servidor ofereix un recurs de qualsevol tipus a l’altre (el client) perquè aquest pugui obtenir un profit o avantatge, podem afirmar que és en l’equip servidor on s’allotjaran els diferents comptes d’usuari i mitjançant els clients de correu es gestionarà la descàrrega dels missatges.&lt;/p&gt;
-&lt;p&gt;Arribats en aquest punt, és essencial destacar que tant el compte de correu electrònic com el mètode definit per l’establiment de les comunicacions entre l’emissor i el receptor de correu electrònic (E-mail, Electronic Mail) han de seguir unes normes específiques que es regeixen per unes normes anomenades protocols d’Internet.&lt;/p&gt;
+&lt;p&gt;Considerando que el correo electrónico se basa en la arquitectura cliente-servidor donde el servidor ofrece un recurso de cualquier tipo al otro (el cliente) para que este pueda obtener un beneficio o ventaja, podemos afirmar que es en el equipo servidor donde se alojarán las diferentes cuentas de usuario y mediante los clientes de correo se gestionará la descarga de los mensajes.&lt;/p&gt;
+&lt;p&gt;Llegados a este punto, es esencial destacar que tanto la cuenta de correo electrónico como el método definido para el establecimiento de las comunicaciones entre el emisor y el receptor de correo electrónico (E-mail, Electronic Mail) deben seguir unas normas específicas que se rigen por unas reglas llamadas protocolos de Internet.&lt;/p&gt;
 &lt;blockquote class=&quot;destacado&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Protocols d'Internet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Conjunt de regles de comunicació de xarxa en la qual es basa Internet i que permeten la transmissió de dades entre ordinadors connectats en xarxa, així permeten la comunicació i transmissió de correu electrònic entre usuaris independentment del sistema operatiu i del client de correu que utilitzin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protocolos de Internet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Conjunto de reglas de comunicación de red en la que se basa Internet y que permiten la transmisión de datos entre ordenadores conectados en red, permitiendo así la comunicación y transmisión de correo electrónico entre usuarios independientemente del sistema operativo y del cliente de correo que utilicen.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote class=&quot;destacado&quot;&gt;
 &lt;p&gt;&lt;strong&gt;ISP, &lt;em&gt;Internet Service Provider&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Els proveïdors de serveis d’Internet poden ser aquelles empreses adreçades a proporcionar l’accés a Internet afegint-hi serveis relacionats com, per exemple, correu electrònic, allotjament web, etc.&lt;/p&gt;
+&lt;p&gt;Los proveedores de servicios de Internet pueden ser aquellas empresas dirigidas a proporcionar el acceso a Internet añadiendo servicios relacionados como, por ejemplo, correo electrónico, alojamiento web, etc.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Val a dir que, amb la intenció de llençar el client de correu electrònic, haurem de disposar d’informació sobre el proveïdor de serveis d’Internet (ISP, Internet Service Provider) per configurar correctament el client de correu electrònic.&lt;/p&gt;
-&lt;p&gt;Per tant, amb la intenció d’aprofundir en la gestió del correu electrònic haurem de conèixer, principalment, quins són els protocols de correu electrònic existents i, alhora, els més utilitzats.&lt;/p&gt;
-&lt;h3&gt;3.1. Protocol d'enviament de correu&lt;/h3&gt;
-&lt;h4&gt;3.1.1. Protocol simple de transferència de correu (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;)&lt;/h4&gt;
-&lt;p&gt;Es tracta de l'estàndard d'Internet adreçat a l'intercanvi de correus electrònics. La seva funció és la transmissió del correu electrònic que surt de la màquina de l'usuari remetent fins al servidor que emmagatzema els missatges dels usuaris destinataris.&lt;/p&gt;
-&lt;p&gt;Tècnicament, quan l'usuari remetent envia un missatge, aquest és adreçat al seu servidor de correu. A continuació, des del servidor s'enviarà el missatge al servidor de correu de l'usuari destinatari. I, finalment, l'usuari destinatari descarregarà el correu a la seva bústia a la màquina local. &lt;span style=&quot;font-size: 1em;&quot;&gt;Val a dir que és important que aquest protocol estigui dotat de certes eines d'autenticació per estalviar l'enviament i recepció de correu no desitjat o correu brossa (&lt;em&gt;spam&lt;/em&gt;).&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;3.2. Protocols descàrrega de correu&lt;/h3&gt;
-&lt;h4&gt;3.2.1. Protocol d'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;)&lt;/h4&gt;
-&lt;p&gt;Aquest tipus de protocol fa referència al tipus de servidor que s'utilitzarà per rebre els correus electrònics. De fet, el protocol d'oficina de correus permet la gestió, accés i transferència de missatges de correu electrònic entre el servidor i el client de correus electrònics. De fet, a diferència del protocol simple de transferència de correu (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;), el protocol d'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) s'utilitza per a la descàrrega de correus electrònics. L'origen del protocol d'oficina de correus (POP, Post Office Protocol) és determinat per la necessitat de molts usuaris de consultar els seus correus electrònics mitjançant la connexió puntual a Internet per, en conseqüència, connectar amb el seu servidor de correu i descarregar els missatges. Un cop descarregat els missatges, el protocol d'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) també facilita la desconnexió amb el servidor.&lt;/p&gt;
-&lt;h4&gt;3.2.2.Protocol d'accés a missatges d'Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;)&lt;/h4&gt;
-&lt;p&gt;És mitjançant aquest protocol que els clients de correu electrònic poden accedir als missatges emmagatzemats en els servidors de correu des de qualsevol màquina amb accés a Internet.&lt;/p&gt;
-&lt;p&gt;Normalment, el protocol d'accés a missatges d’Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;) és utilitzat pels servidors i pels clients de correu electrònic via web. Aquests tipus de servidors i clients faciliten als usuaris la gestió de les seves bústies de correu electrònic des de qualsevol ordinador amb accés a Internet.&lt;/p&gt;
-&lt;p&gt;Val a dir que el protocol d'accés a missatges d’Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;) es diferencia del protocol d’oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) en el fet que els correus electrònics estan emmagatzemats en el servidor i es queden allí fins i tot si es descarreguen el cas més típic són els servidors de correu electrònic via web. Per contra, en el protocol d’oficina de correus (POP, Post Office Protocol) comporta que els correus electrònics es descarreguin en l’ordinador del client directament i no quedin emmagatzemats en el servidor.&lt;/p&gt;
-&lt;p&gt;En conseqüència, a l’hora de configurar l’aplicació o el gestor de correu electrònic, haurem d’especificar tant el servidor SMTP com el servidor POP.&lt;/p&gt;"></unicode>
+&lt;p&gt;Cabe decir que, con la intención de lanzar el cliente de correo electrónico, debemos disponer de información sobre el proveedor de servicios de Internet (ISP, Internet Service Provider) para configurar correctamente el cliente de correo electrónico.&lt;/p&gt;
+&lt;p&gt;Por lo tanto, con la intención de profundizar en la gestión del correo electrónico debemos conocer, principalmente, cuáles son los protocolos de correo electrónico existentes y, a la vez, los más utilizados.&lt;/p&gt;
+&lt;h3&gt;3.1. Protocolo de envío de correo&lt;/h3&gt;
+&lt;h4&gt;3.1.1. Protocolo simple de transferencia de correo (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;)&lt;/h4&gt;
+&lt;p&gt;Se trata del estándar de Internet dirigido al intercambio de correos electrónicos. Su función es la transmisión del correo electrónico que sale de la máquina del usuario remitente hasta el servidor que almacena los mensajes de los usuarios destinatarios.&lt;/p&gt;
+&lt;p&gt;Técnicamente, cuando el usuario remitente envía un mensaje, este es dirigido a su servidor de correo. A continuación, desde el servidor se enviará el mensaje al servidor de correo del usuario destinatario. Y, finalmente, el usuario destinatario descargará el correo en su buzón en la máquina local. &lt;span style=&quot;font-size: 1em;&quot;&gt;Cabe decir que es importante que este protocolo esté dotado de ciertas herramientas de autenticación para evitar el envío y recepción de correo no deseado o spam.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;3.2. Protocolos de descarga de correo&lt;/h3&gt;
+&lt;h4&gt;3.2.1. Protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;)&lt;/h4&gt;
+&lt;p&gt;Este tipo de protocolo hace referencia al tipo de servidor que se utilizará para recibir los correos electrónicos. De hecho, el protocolo de oficina de correos permite la gestión, acceso y transferencia de mensajes de correo electrónico entre el servidor y el cliente de correos electrónicos. A diferencia del protocolo simple de transferencia de correo (SMTP, &lt;em&gt;Simple Mail Transfer Protocol&lt;/em&gt;), el protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) se utiliza para la descarga de correos electrónicos. El origen del protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) está determinado por la necesidad de muchos usuarios de consultar sus correos electrónicos mediante la conexión puntual a Internet para, en consecuencia, conectar con su servidor de correo y descargar los mensajes. Una vez descargados los mensajes, el protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) también facilita la desconexión con el servidor.&lt;/p&gt;
+&lt;h4&gt;3.2.2. Protocolo de acceso a mensajes de Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;)&lt;/h4&gt;
+&lt;p&gt;Es mediante este protocolo que los clientes de correo electrónico pueden acceder a los mensajes almacenados en los servidores de correo desde cualquier máquina con acceso a Internet.&lt;/p&gt;
+&lt;p&gt;Normalmente, el protocolo de acceso a mensajes de Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;) es utilizado por los servidores y los clientes de correo electrónico vía web. Estos tipos de servidores y clientes facilitan a los usuarios la gestión de sus buzones de correo electrónico desde cualquier ordenador con acceso a Internet.&lt;/p&gt;
+&lt;p&gt;Cabe decir que el protocolo de acceso a mensajes de Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;) se diferencia del protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) en el hecho de que los correos electrónicos están almacenados en el servidor y permanecen allí incluso si se descargan. El caso más típico son los servidores de correo electrónico vía web. Por el contrario, el protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) implica que los correos electrónicos se descarguen en el ordenador del cliente directamente y no queden almacenados en el servidor.&lt;/p&gt;
+&lt;p&gt;En consecuencia, al configurar la aplicación o el gestor de correo electrónico, debemos especificar tanto el servidor SMTP como el servidor POP.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -848,13 +840,13 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;Com s'ha explicat anteriorment per a disposar d'un servei complet de correu electrònic és necessària la cooperació de diversos protocols, un d'enviament de correu (SMTP) i altre de descàrrega de correu (IMAP o POP3).&lt;/p&gt;
-&lt;p&gt;En els sistemes &lt;strong&gt;Linux&lt;/strong&gt; tenim diverses opcions, alguns exemples significatius són&lt;/p&gt;
+             <unicode content="true" value="&lt;p&gt;Como se ha explicado anteriormente, para disponer de un servicio completo de correo electrónico es necesaria la cooperación de varios protocolos, uno de envío de correo (SMTP) y otro de descarga de correo (IMAP o POP3).&lt;/p&gt;
+&lt;p&gt;En los sistemas &lt;strong&gt;Linux&lt;/strong&gt; tenemos varias opciones, algunos ejemplos significativos son:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Postfix o Sendmail per a l'enviament (SMTP)&lt;/li&gt;
-&lt;li&gt;Dovecot  o Courier per a la descàrrega (IMAP o POP3).&lt;/li&gt;
+&lt;li&gt;Postfix o Sendmail para el envío (SMTP).&lt;/li&gt;
+&lt;li&gt;Dovecot o Courier para la descarga (IMAP o POP3).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;En entorns &lt;strong&gt;Windows&lt;/strong&gt; és Microsoft Exchange l'opció més triada.&lt;/p&gt;"></unicode>
+&lt;p&gt;En entornos &lt;strong&gt;Windows&lt;/strong&gt;, Microsoft Exchange es la opción más elegida.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -943,7 +935,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;h2&gt;1. Instal·lació d'un servidor de correu electrònic en Ubuntu.&lt;/h2&gt;"></unicode>
+             <unicode content="true" value="&lt;h2&gt;1. Instalación de un servidor de correo electrónico en Ubuntu&lt;/h2&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1032,133 +1024,121 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;h3&gt;1.1. Instal·lació d'un MTA: Postfix&lt;/h3&gt;
+             <unicode content="true" value="&lt;h3&gt;1.1. Instalación de un MTA: Postfix&lt;/h3&gt;
 &lt;h4&gt;1.1.1. Postfix&lt;/h4&gt;
-&lt;p&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;ca&quot; tabindex=&quot;-1&quot;&gt;&lt;span&gt;&lt;em&gt;Postfix&lt;/em&gt; és l'agent de transferència de correu predeterminat (MTA) a l'Ubuntu.&lt;/span&gt; &lt;span&gt;Intenta ser ràpid i fàcil d'administrar i protegir.&lt;/span&gt; &lt;span class=&quot;&quot;&gt;És compatible amb el &lt;em&gt;sendmail&lt;/em&gt; MTA.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h4&gt;1.1.2. Configuració dels registres MX&lt;/h4&gt;
-&lt;p&gt;En aquesta configuració suposo que el vostre domini és yourdomain.com i té una configuració de registre MX vàlida com mail.yourdomain.com. Recordeu substituir yourdomain.com amb el vostre domini real en els codis d'exemple d'aquest mode. També suposo que saps què és un registre MX. Per descobrir registres MX, escriviu en un terminal:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Postfix&lt;/em&gt; es el agente de transferencia de correo predeterminado (MTA) en Ubuntu. Intenta ser rápido, fácil de administrar y seguro. Es compatible con el MTA &lt;em&gt;sendmail&lt;/em&gt;.&lt;/p&gt;
+&lt;h4&gt;1.1.2. Configuración de los registros MX&lt;/h4&gt;
+&lt;p&gt;En esta configuración suponemos que tu dominio es yourdomain.com y que tiene una configuración de registro MX válida como mail.yourdomain.com. Recuerda sustituir yourdomain.com por tu dominio real en los ejemplos de código. También se asume que sabes qué es un registro MX. Para descubrir registros MX, escribe en un terminal:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;dig mx yourdomain.com
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;dig mx yourdomain.com&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4&gt;1.1.3. Instal·lació&lt;/h4&gt;
-&lt;p&gt;Per instal·lar &lt;em&gt;postfix&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;1.1.3. Instalación&lt;/h4&gt;
+&lt;p&gt;Para instalar &lt;em&gt;postfix&lt;/em&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo apt-get install postfix
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt-get install postfix&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Instal·leu el paquet &lt;code&gt;mailx&lt;/code&gt; per utilitzar-lo com a programa d'utilitat de correu d'ordres. L'ordre de correu s'instal·la amb aquest paquet. &lt;/p&gt;
+&lt;p&gt;Instala el paquete &lt;code&gt;mailx&lt;/code&gt; para usarlo como programa de utilidad de correo de órdenes. El comando &lt;code&gt;mail&lt;/code&gt; se instala con este paquete.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo apt-get install mailutils
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt-get install mailutils&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4&gt;1.1.4. Proveu la configuració predeterminada&lt;/h4&gt;
-&lt;p&gt;Afegiu un usuari abans de començar.&lt;/p&gt;
+&lt;h4&gt;1.1.4. Prueba de la configuración predeterminada&lt;/h4&gt;
+&lt;p&gt;Añade un usuario antes de comenzar.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;sudo useradd -m -s /bin/bash fmaster
 sudo passwd fmaster&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Proveu la vostra instal·lació predeterminada mitjançant el següent segment de codi.&lt;/p&gt;
+&lt;p&gt;Prueba tu instalación predeterminada mediante el siguiente segmento de código.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;telnet localhost 25
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;telnet localhost 25&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;(si això no funciona, comproveu si el postfix s'està executant)&lt;/p&gt;
+&lt;p&gt;(Si esto no funciona, comprueba si postfix se está ejecutando)&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo service postfix status
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo service postfix status&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Si no s'està executant, inicieu-lo&lt;/p&gt;
+&lt;p&gt;Si no está ejecutándose, inícialo:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo service postfix start
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo service postfix start&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Postfix indicarà com a continuació al terminal perquè pugui utilitzar per escriure ordres SMTP.&lt;/p&gt;
+&lt;p&gt;Postfix indicará en el terminal que está funcionando y permitirá escribir comandos SMTP.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;S'està provant 127.0.0.1 ...
-Connectat a localhost.
-El caràcter d'escapament és &quot;^]&quot;.
-220 localhost.localdomain Postfix d'ESMTP (Ubuntu)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Probando 127.0.0.1 ...
+Conectado a localhost.
+El carácter de escape es &quot;^]&quot;.
+220 localhost.localdomain Postfix ESMTP (Ubuntu)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Escriviu el següent segment de codi a l'indicador de Postfix.&lt;/p&gt;
+&lt;p&gt;Escribe el siguiente código en el indicador de Postfix.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;ehlo localhost
 mail from: root@localhost
 rcpt to: fmaster@localhost
 data
-Subject: El meu primer correu a Postfix
+Subject: Mi primer correo en Postfix
 
 Hola,
-Estàs allà?
-Salutacions,
+¿Estás ahí?
+Saludos,
 Administrador
-. (Escriviu el. [punt] en una nova línia i premeu Retorn)
+. (Escribe un punto en una nueva línea y presiona Enter)
 quit&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Consulteu la bústia de correu de fmaster&lt;/p&gt;
+&lt;p&gt;Consulta el buzón de correo de fmaster:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;su - fmaster
 mail&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Quan escriviu el comandament de correu, una sortida com la següent es mostrarà al vostre terminal.&lt;/p&gt;
+&lt;p&gt;Cuando escribas el comando &lt;code&gt;mail&lt;/code&gt;, se mostrará una salida similar a la siguiente en el terminal.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;Versió per correu electrònic 8.1.2 01/15/2001. Escriu? per ajuda.
-&quot;/var/mail/fmaster&quot;: 2 missatges 2 nous
-&amp;gt; N 1 root @ localhost Dl Mar 6 12:49 13/479 Només una prova
-  N 2 root @ localhost dl. Mar 6 12:51 15/487 El meu primer correu
-&amp;amp;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Versión de correo 8.1.2 01/15/2001. Escribe ? para ayuda.
+&quot;/var/mail/fmaster&quot;: 2 mensajes 2 nuevos
+&amp;gt; N 1 root@localhost Mar 6 12:49 13/479 Solo una prueba
+  N 2 root@localhost Mar 6 12:51 15/487 Mi primer correo&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Observareu que els correus es indexen per números i podeu escriure el número del correu que voleu llegir. Per exemple, escriviu &quot;2&quot; per llegir el segon correu. El tipus &quot;q&quot; per sortir. El correu electrònic s'escriurà en un fitxer anomenat &lt;code&gt;mbox&lt;/code&gt; al directori personal de l'usuari. Segons el nostre exemple, serà &lt;code&gt;/home/fmaster/mbox&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Tots els missatges en un tipus &lt;code&gt;mbox&lt;/code&gt; de bústia de correu estan concatenats i emmagatzemats en un únic fitxer. El començament de cada missatge està indicat per una línia els primers cinc caràcters són &quot;From&quot; i una línia en blanc s'afegeix al final de cada missatge.&lt;/p&gt;
-&lt;h4&gt;1.1.5. Configuració del suport Postfix per a les bústies d'estil de Maildir&lt;/h4&gt;
-&lt;p&gt;Maildir és un format per una cua de correu electrònic que no requereix bloqueig de fitxers per mantenir la integritat del missatge, ja que els missatges es mantenen en fitxers separats amb noms únics. Un &lt;em&gt;Maildir&lt;/em&gt; és un directori (sovint anomenat Maildir) amb tres subdirectoris anomenats tmp, new i cur. Els subdirectoris haurien de residir en el mateix sistema de fitxers.&lt;/p&gt;
-&lt;p&gt;Una altra raó per utilitzar el format Maildir és que els servidors Courier IMAP / POP3 només funcionen amb el format Maildir de les bústies.&lt;/p&gt;
-&lt;p&gt;Indiqueu a Postfix per utilitzar &lt;code&gt;Maildir&lt;/code&gt; en lloc de &lt;code&gt;mbox&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;Los correos están indexados por números. Escribe &quot;2&quot; para leer el segundo correo. Escribe &quot;q&quot; para salir. El correo se almacena en un archivo llamado &lt;code&gt;mbox&lt;/code&gt; en el directorio personal del usuario, en este caso &lt;code&gt;/home/fmaster/mbox&lt;/code&gt;.&lt;/p&gt;
+&lt;h4&gt;1.1.5. Configuración del soporte de Postfix para buzones en formato Maildir&lt;/h4&gt;
+&lt;p&gt;Maildir es un formato de almacenamiento de correo electrónico que no requiere bloqueo de archivos para mantener la integridad de los mensajes, ya que cada mensaje se almacena en archivos separados con nombres únicos. Un &lt;em&gt;Maildir&lt;/em&gt; es un directorio con tres subdirectorios: tmp, new y cur.&lt;/p&gt;
+&lt;p&gt;Otra razón para usar Maildir es que los servidores Courier IMAP/POP3 solo funcionan con este formato.&lt;/p&gt;
+&lt;p&gt;Configura Postfix para usar &lt;code&gt;Maildir&lt;/code&gt; en lugar de &lt;code&gt;mbox&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo postconf -e &quot;home_mailbox = Maildir/&quot;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo postconf -e &quot;home_mailbox = Maildir/&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Assegureu-vos que no s'utilitza Procmail: (per si es va configurar durant l'execució de &lt;code&gt;dpkg-reconfigure&lt;/code&gt;, per error) &lt;/p&gt;
+&lt;p&gt;Asegúrate de que Procmail no está en uso:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo postconf -e &quot;mailbox_command =&quot;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo postconf -e &quot;mailbox_command =&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Reinicia Postfix per fer efectes els canvis.&lt;/p&gt;
+&lt;p&gt;Reinicia Postfix para aplicar los cambios.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;sudo service postfix restart
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;sudo service postfix restart&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Torneu a provar la configuració.&lt;/p&gt;
-&lt;p&gt;Consulteu la bústia de correu de &lt;code&gt;fmaster&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Vuelve a probar la configuración.&lt;/p&gt;
+&lt;p&gt;Consulta el buzón de &lt;code&gt;fmaster&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;su - fmaster
@@ -1166,14 +1146,13 @@ MAIL=/home/fmaster/Maildir
 mail&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4&gt;1.1.6. Qüestions de seguretat&lt;/h4&gt;
-&lt;p&gt;Cal afegir les vostres xarxes al paràmetre &lt;code&gt;mynetworks&lt;/code&gt; perquè funcione l'autenticació des de l'exterior:&lt;/p&gt;
+&lt;h4&gt;1.1.6. Cuestiones de seguridad&lt;/h4&gt;
+&lt;p&gt;Añade tus redes al parámetro &lt;code&gt;mynetworks&lt;/code&gt; para permitir autenticación desde el exterior:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;mynetworks = 192.168.189.0/24, 10.0.216.0/24, 127.0.0.0/8&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;"></unicode>
+&lt;/div&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1262,53 +1241,52 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;h3&gt;1.2. Instal·lació d'un MDA: Dovecot&lt;/h3&gt;
-&lt;p&gt;Dovecot és un agent de lliurament de missatges (&lt;em&gt;Message Delivery Agent&lt;/em&gt;), escrit principalment amb la seguretat en ment. Suporta els principals formats de bústia: mbox o Maildir. Aquesta secció explica com configurar-la com un servidor imap o pop3.&lt;/p&gt;
-&lt;h4&gt;1.2.1. Instal·lació&lt;/h4&gt;
-&lt;p&gt;Per a instal·lar dovecot, executa el següent comandament en el terminal:&lt;/p&gt;
+             <unicode content="true" value="&lt;h3&gt;1.2. Instalación de un MDA: Dovecot&lt;/h3&gt;
+&lt;p&gt;Dovecot es un agente de entrega de mensajes (&lt;em&gt;Message Delivery Agent&lt;/em&gt;), escrito principalmente con la seguridad en mente. Soporta los principales formatos de buzón: mbox o Maildir. Esta sección explica cómo configurarlo como un servidor IMAP o POP3.&lt;/p&gt;
+&lt;h4&gt;1.2.1. Instalación&lt;/h4&gt;
+&lt;p&gt;Para instalar Dovecot, ejecuta el siguiente comando en el terminal:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;sudo apt install dovecot-imapd dovecot-pop3d&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4&gt;1.2.2. Configuració&lt;/h4&gt;
-&lt;p&gt;Per configurar  dovecot, podeu editar el fitxer /etc/dovecot/dovecot.conf. Podeu triar el protocol que feu servir. Pot ser pop3, pop3s (pop3 &lt;em&gt;secure&lt;/em&gt;), imap i imaps (imap &lt;em&gt;secure&lt;/em&gt;). Per obtenir més informació, consulteu els articles de Wikipedia sobre POP3 i IMAP.&lt;/p&gt;
-&lt;p&gt;IMAPS i POP3S són més segurs que els simples IMAP i POP3 perquè utilitzen el xifrat SSL per connectar-se. Un cop seleccionat el protocol, modifiqueu la següent línia al fitxer &lt;code&gt;/etc/dovecot/dovecot.conf&lt;/code&gt;:&lt;/p&gt;
+&lt;h4&gt;1.2.2. Configuración&lt;/h4&gt;
+&lt;p&gt;Para configurar Dovecot, puedes editar el archivo &lt;code&gt;/etc/dovecot/dovecot.conf&lt;/code&gt;. Puedes elegir el protocolo que utilizarás, que puede ser POP3, POP3S (POP3 seguro), IMAP e IMAPS (IMAP seguro). Para obtener más información, consulta los artículos de Wikipedia sobre POP3 e IMAP.&lt;/p&gt;
+&lt;p&gt;IMAPS y POP3S son más seguros que los simples IMAP y POP3 porque utilizan cifrado SSL para la conexión. Una vez seleccionado el protocolo, modifica la siguiente línea en el archivo &lt;code&gt;/etc/dovecot/dovecot.conf&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;protocols = pop3 pop3s imap imaps&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;A continuació, trieu la bústia que voleu utilitzar. Dovecot admet els formats &lt;em&gt;maildir&lt;/em&gt; i &lt;em&gt;mbox&lt;/em&gt;. Aquests són els formats de bústia més utilitzats. Tots dos tenen els seus propis beneficis i es discuteixen al lloc web &lt;em&gt;Dovecot&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Un cop hagueu escollit el vostre tipus de bústia, editeu el fitxer&lt;code&gt; /etc/dovecot/conf.d/10-mail.conf&lt;/code&gt; i canvieu la següent línia:&lt;/p&gt;
+&lt;p&gt;A continuación, elige el formato de buzón que deseas utilizar. Dovecot admite los formatos &lt;em&gt;maildir&lt;/em&gt; y &lt;em&gt;mbox&lt;/em&gt;. Estos son los formatos de buzón más utilizados. Ambos tienen sus propios beneficios y están documentados en el sitio web de &lt;em&gt;Dovecot&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Una vez que hayas elegido tu tipo de buzón, edita el archivo &lt;code&gt;/etc/dovecot/conf.d/10-mail.conf&lt;/code&gt; y cambia la siguiente línea:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;mail_location = maildir:~/Maildir # (for maildir)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;mail_location = maildir:~/Maildir # (para maildir)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;o&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
-&lt;pre&gt;&lt;code&gt;mail_location = mbox:~/mail:INBOX=/var/spool/mail/%u # (for mbox)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;mail_location = mbox:~/mail:INBOX=/var/spool/mail/%u # (para mbox)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Heu de configurar el vostre agent de transport de correu (MTA) per transferir el correu entrant a aquest tipus de bústia si és diferent del que heu configurat.&lt;/p&gt;
-&lt;p&gt;Ara permetrem l'autenticació amb text pla des de fora per a simplificar el sistema:&lt;/p&gt;
-&lt;p&gt;Obri  /etc/dovecot/conf.d/10-auth.conf i edita les línies següents perquè queden així:&lt;/p&gt;
+&lt;p&gt;Debes configurar tu agente de transporte de correo (MTA) para transferir el correo entrante a este tipo de buzón si es diferente del que has configurado.&lt;/p&gt;
+&lt;p&gt;Ahora permitiremos la autenticación con texto plano desde fuera para simplificar el sistema:&lt;/p&gt;
+&lt;p&gt;Abre &lt;code&gt;/etc/dovecot/conf.d/10-auth.conf&lt;/code&gt; y edita las siguientes líneas para que queden así:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-c&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;disable_plaintext_auth = no
-auth_mechanisms = plain login
-&lt;/code&gt;&lt;/pre&gt;
+auth_mechanisms = plain login&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Un cop hagueu configurat dovecot, reinicieu el servei per comprovar la configuració&lt;/p&gt;
+&lt;p&gt;Una vez configurado Dovecot, reinicia el servicio para aplicar los cambios:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;sudo service dovecot restart&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Si heu activat &lt;code&gt;imap&lt;/code&gt; o &lt;code&gt;pop3&lt;/code&gt;, també podeu intentar iniciar sessió amb les ordres &lt;code&gt;telnet localhost pop3&lt;/code&gt; o &lt;code&gt;telnet localhost imap2&lt;/code&gt;. Si veieu alguna cosa així com la següent, la instal·lació ha tingut èxit:&lt;/p&gt;
+&lt;p&gt;Si has activado &lt;code&gt;imap&lt;/code&gt; o &lt;code&gt;pop3&lt;/code&gt;, también puedes intentar iniciar sesión con los comandos &lt;code&gt;telnet localhost pop3&lt;/code&gt; o &lt;code&gt;telnet localhost imap2&lt;/code&gt;. Si ves un mensaje similar al siguiente, la instalación ha sido exitosa:&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;bhuvan@rainbow:~$ telnet localhost pop3
@@ -1318,14 +1296,14 @@ Escape character is '^]'.
 +OK Dovecot ready.&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4&gt;1.2.3. Configuració de seguretat&lt;/h4&gt;
-&lt;p&gt;Cal modificar l'arxiu &lt;code&gt;/etc/dovecot/dovecot.conf&lt;/code&gt; i afegir a &lt;code&gt;login_trusted_networks&lt;/code&gt; les vostres adreces de xarxa perquè funcione la autenticació.&lt;/p&gt;
+&lt;h4&gt;1.2.3. Configuración de seguridad&lt;/h4&gt;
+&lt;p&gt;Debes modificar el archivo &lt;code&gt;/etc/dovecot/dovecot.conf&lt;/code&gt; y agregar a &lt;code&gt;login_trusted_networks&lt;/code&gt; tus direcciones de red para que la autenticación funcione.&lt;/p&gt;
 &lt;div class=&quot;highlighted-code language-clike&quot;&gt;
 &lt;div&gt;
 &lt;pre&gt;&lt;code&gt;login_trusted_networks = 192.168.1.0/30&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;Podeu provar si funciona seguint en següent tutorial (les versions insegures del protocols sols funcionen des del servidor local): &lt;a href=&quot;https://notes.sagredo.eu/en/qmail-notes-185/testing-dovecot-90.html&quot;&gt;https://notes.sagredo.eu/en/qmail-notes-185/testing-dovecot-90.html&lt;/a&gt;&lt;/p&gt;"></unicode>
+&lt;p&gt;Puedes probar si funciona siguiendo el siguiente tutorial (las versiones inseguras de los protocolos solo funcionan desde el servidor local): &lt;a href=&quot;https://notes.sagredo.eu/en/qmail-notes-185/testing-dovecot-90.html&quot;&gt;https://notes.sagredo.eu/en/qmail-notes-185/testing-dovecot-90.html&lt;/a&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1536,13 +1514,13 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;El POP3 és la versió millorada del gestor del protocol d'oficina de correus (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) consistent en el client de correu electrònic que proporcionen els proveïdors de serveis d'Internet (ISP, &lt;em&gt;Internet Service Provider&lt;/em&gt;), que exigeix disposar d'un gestor de correus electrònics correctament configurat que permeti la descàrrega dels missatges a l'ordinador i, alhora, gestionar-los sense obligatorietat de connexió a Internet.&lt;/p&gt;
-&lt;p&gt;El client POP és el programa que utilitza l'ordinador per comunicar-se amb el programa servidor, que funciona sota protocol POP3.&lt;/p&gt;
-&lt;p&gt;A grans trets, el protocol POP3 s'encarrega de realitzar les tasques necessàries perquè els missatges es distribueixen per Internet. A més, també recull tots els missatges adreçats a la seva màquina. Per fer-ho, el gestor de correu POP3 es connectarà al servidor remot contractat i descarregarà els correus directament al nostre ordinador per poder llegir-los, editar-los, imprimir-los i, en cas necessari, redactar les respostes per a la propera vegada que ens connectem a Internet.&lt;/p&gt;
-&lt;p&gt;Ara bé, a mode d'inconvenient podríem destacar que, tot i haver llegit el correu en d'altres ordinadors, quan arribi al nostre ordinador, aquest missatge es descarregarà (de nou) amb la categoria “No llegit”. En conseqüència, hi haurà un consum de recursos i espai innecessari.&lt;/p&gt;
-&lt;p&gt;Des del punt de vista del programari, alguns dels gestors de correu POP3 més rellevants són l'MS Outlook 2007 i l'Outlook Express per Windows i el Qualcomm Eudora, l'Evolution per Linux. Per últim, podríem destacar el programari Mozilla Thunderbird, que pot treballar en tots els sistemes operatius presents al mercat, actualment.&lt;/p&gt;
-&lt;p&gt;Des del punt de vista del sistema operatiu Windows, fins al sorgiment de la versió Windows XP, tots els sistemes operatius d'aquest proveïdor portaven integrat l'Outlook Express -el nou Windows Vista porta incorporat una versió renovada anomenada Windows Mail. Independentment a aquests gestors, la suite ofimàtica Microsoft Office conté el gestor de correu Outlook. En el cas de Linux tenim, entre altres, els clients de correu Evolution, amb versió per Windows, Kmail i Mozilla Thunderbird.&lt;/p&gt;
-&lt;p&gt;Per últim, cal destacar que, tot i que molts usuaris disposem d'un gestor de correu que utilitza el protocol POP3 (Microsoft Outlook, Mozilla Thunderbird, etc.), l'emmagatzematge de missatges en carpetes, el filtratge del correu no desitjat o la creixent necessitat d'accedir a consultar el correu electrònic des de qualsevol lloc, augmenta la necessitat d'utilitzar un protocol d'accés als missatges d'Internet (IMAP,&lt;em&gt; Internet Message Access Protocol&lt;/em&gt;).&lt;/p&gt;"></unicode>
+             <unicode content="true" value="&lt;p&gt;El POP3 es la versión mejorada del gestor del protocolo de oficina de correos (POP, &lt;em&gt;Post Office Protocol&lt;/em&gt;) que consiste en el cliente de correo electrónico proporcionado por los proveedores de servicios de Internet (ISP, &lt;em&gt;Internet Service Provider&lt;/em&gt;). Requiere disponer de un gestor de correos electrónicos correctamente configurado que permita la descarga de los mensajes al ordenador y, al mismo tiempo, gestionarlos sin necesidad de conexión a Internet.&lt;/p&gt;
+&lt;p&gt;El cliente POP es el programa que utiliza el ordenador para comunicarse con el programa servidor, que funciona bajo el protocolo POP3.&lt;/p&gt;
+&lt;p&gt;A grandes rasgos, el protocolo POP3 se encarga de realizar las tareas necesarias para que los mensajes se distribuyan por Internet. Además, también recopila todos los mensajes dirigidos a su máquina. Para ello, el gestor de correo POP3 se conectará al servidor remoto contratado y descargará los correos directamente en nuestro ordenador para poder leerlos, editarlos, imprimirlos y, en caso necesario, redactar las respuestas para la próxima vez que nos conectemos a Internet.&lt;/p&gt;
+&lt;p&gt;Sin embargo, como inconveniente, podríamos destacar que, aunque hayamos leído el correo en otros ordenadores, cuando llegue a nuestro ordenador, este mensaje se descargará (de nuevo) con la categoría “No leído”. En consecuencia, habrá un consumo de recursos y espacio innecesario.&lt;/p&gt;
+&lt;p&gt;Desde el punto de vista del software, algunos de los gestores de correo POP3 más relevantes son MS Outlook 2007 y Outlook Express para Windows, y Qualcomm Eudora y Evolution para Linux. Por último, podemos destacar el software Mozilla Thunderbird, que puede trabajar en todos los sistemas operativos presentes en el mercado actualmente.&lt;/p&gt;
+&lt;p&gt;Desde el punto de vista del sistema operativo Windows, hasta la aparición de la versión Windows XP, todos los sistemas operativos de este proveedor incluían integrado Outlook Express. El nuevo Windows Vista incorpora una versión renovada denominada Windows Mail. Independientemente de estos gestores, la suite ofimática Microsoft Office contiene el gestor de correo Outlook. En el caso de Linux, tenemos, entre otros, los clientes de correo Evolution, con versión para Windows, KMail y Mozilla Thunderbird.&lt;/p&gt;
+&lt;p&gt;Por último, cabe destacar que, aunque muchos usuarios disponemos de un gestor de correo que utiliza el protocolo POP3 (Microsoft Outlook, Mozilla Thunderbird, etc.), el almacenamiento de mensajes en carpetas, el filtrado del correo no deseado o la creciente necesidad de acceder y consultar el correo electrónico desde cualquier lugar aumentan la necesidad de utilizar un protocolo de acceso a los mensajes de Internet (IMAP, &lt;em&gt;Internet Message Access Protocol&lt;/em&gt;).&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1658,17 +1636,17 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;En el procés de transmissió de correu electrònic entre els usuaris no hi ha cap garantia que aquest es realitze amb èxit, ja que pot ocórrer que el destinatari no siga el que preteníem, que abans d'arribar al destí sigui llegit per altres usuaris, que durant el procés de transmissió viatgi també algun tipus de virus, etc.&lt;/p&gt;
-&lt;p&gt;Arran d'aquestes necessitats, han sorgit sistemes que permeten xifrar, desxifrar, crear signatures digitals, etc. de forma ràpida, senzilla i segura. Un d'aquests sistemes és PGP (&lt;em&gt;Pretty Good Privacy&lt;/em&gt;), que permet la confidencialitat, autenticació i integració del correu electrònic. És un programa gratuït independent del client de correu que s'utilitzi i compta amb versions per a Windows, Linux i Mac Os.&lt;/p&gt;
-&lt;h3&gt;1. Correu brossa&lt;/h3&gt;
-&lt;p&gt;Uns altres dels problemes que ens trobem en l'ús diari del correu electrònic és el correu brossa (&lt;em&gt;spam&lt;/em&gt;), que és aquell correu electrònic normalment de publicitat, que arriba al nostre correu sense haver-lo sol·licitat.&lt;/p&gt;
-&lt;p&gt;Per tant, a l'hora d'escollir un client de correu o un altre ens haurem d'assabentar quins tipus de filtre contra el correu brossa posseeixen, quin grau de confidencialitat, etc. Avui dia, la majoria de clients de correu tenen con aquestes opcions per garantir la seguretat i confidencialitat del correu electrònic dels seus usuaris.&lt;/p&gt;
+             <unicode content="true" value="&lt;p&gt;En el proceso de transmisión de correo electrónico entre los usuarios no hay ninguna garantía de que se realice con éxito, ya que puede ocurrir que el destinatario no sea el que pretendíamos, que antes de llegar al destino sea leído por otros usuarios, que durante el proceso de transmisión viaje también algún tipo de virus, etc.&lt;/p&gt;
+&lt;p&gt;Debido a estas necesidades, han surgido sistemas que permiten cifrar, descifrar, crear firmas digitales, etc., de forma rápida, sencilla y segura. Uno de estos sistemas es PGP (&lt;em&gt;Pretty Good Privacy&lt;/em&gt;), que permite la confidencialidad, autenticación e integridad del correo electrónico. Es un programa gratuito independiente del cliente de correo que se utilice y cuenta con versiones para Windows, Linux y Mac OS.&lt;/p&gt;
+&lt;h3&gt;1. Correo basura&lt;/h3&gt;
+&lt;p&gt;Otro de los problemas que encontramos en el uso diario del correo electrónico es el correo basura (&lt;em&gt;spam&lt;/em&gt;), que es aquel correo electrónico, normalmente de publicidad, que llega a nuestro correo sin haberlo solicitado.&lt;/p&gt;
+&lt;p&gt;Por lo tanto, a la hora de elegir un cliente de correo u otro debemos informarnos sobre qué tipos de filtros contra el correo basura poseen, qué grado de confidencialidad ofrecen, etc. Hoy en día, la mayoría de clientes de correo incluyen estas opciones para garantizar la seguridad y confidencialidad del correo electrónico de sus usuarios.&lt;/p&gt;
 &lt;h3&gt;2. Phishing&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Phishing&lt;/em&gt;, conegut com suplantació d'identitat o simplement suplantador, és un terme informàtic que denomina un model d'abús informàtic i que es comet mitjançant l'ús d'un tipus d'enginyeria social, caracteritzat per intentar adquirir informació confidencial de forma fraudulenta (com pot ser una contrasenya, informació detallada sobre targetes de crèdit o una altra informació bancària). El cibercriminal, conegut com &lt;em&gt;phisher&lt;/em&gt;, es fa passar per una persona o empresa de confiança en una aparent comunicació oficial electrònica, comunament un correu electrònic, o algun sistema de missatgeria instantània o fins i tot utilitzant també cridades telefòniques.&lt;/p&gt;
-&lt;h2&gt;3. Bulos (Hoax) i cadenes&lt;/h2&gt;
-&lt;p&gt;És un missatge de correu electrònic amb contingut fals o enganyós i atraient. Normalment és distribuït en cadena pels seus successius receptors a causa del seu contingut impactant que sembla provenir d'una font seriosa i fiable, o perquè el mateix missatge demana ser reenviat.&lt;/p&gt;
-&lt;p&gt;Les persones que creen falses notícies solen tenir com a objectiu captar indirectament adreces de correu electrònic (per enviar correu massiu, virus, missatges amb suplantació d'identitat, o més rumors a gran escala), o també enganyar al destinatari perquè reveli la seva contrasenya o accepti un arxiu de &lt;em&gt;malware&lt;/em&gt;, o també d'alguna manera confondre o manipular a l'opinió pública de la societat.&lt;/p&gt;
-&lt;p&gt;Bàsicament, els rumors poden ser alertes sobre virus incurables, fal·làcies sobre persones, institucions o empreses, missatges de temàtica religiosa; cadenes de solidaritat, cadenes de la sort;  mètodes per fer-se milionari,  regals de grans companyies,  llegendes urbanes;  i altres cadenas.&lt;/p&gt;"></unicode>
+&lt;p&gt;El &lt;em&gt;phishing&lt;/em&gt;, conocido como suplantación de identidad o simplemente fraude de identidad, es un término informático que designa un modelo de abuso informático que se comete mediante el uso de técnicas de ingeniería social. Se caracteriza por intentar adquirir información confidencial de forma fraudulenta (como una contraseña, información detallada sobre tarjetas de crédito u otra información bancaria). El ciberdelincuente, conocido como &lt;em&gt;phisher&lt;/em&gt;, se hace pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, comúnmente un correo electrónico, algún sistema de mensajería instantánea o incluso llamadas telefónicas.&lt;/p&gt;
+&lt;h3&gt;3. Bulos (&lt;em&gt;Hoax&lt;/em&gt;) y cadenas&lt;/h3&gt;
+&lt;p&gt;Se trata de mensajes de correo electrónico con contenido falso o engañoso y atractivo. Normalmente, son distribuidos en cadena por sus sucesivos receptores debido a su contenido impactante, que parece provenir de una fuente seria y fiable, o porque el propio mensaje solicita ser reenviado.&lt;/p&gt;
+&lt;p&gt;Las personas que crean noticias falsas suelen tener como objetivo captar direcciones de correo electrónico de manera indirecta (para enviar correos masivos, virus, mensajes con suplantación de identidad u otros rumores a gran escala), engañar al destinatario para que revele su contraseña o acepte un archivo de &lt;em&gt;malware&lt;/em&gt;, o también manipular la opinión pública.&lt;/p&gt;
+&lt;p&gt;Básicamente, estos bulos pueden incluir alertas sobre virus incurables, falacias sobre personas, instituciones o empresas, mensajes de temática religiosa, cadenas de solidaridad, cadenas de la suerte, métodos para hacerse millonario, regalos de grandes compañías, leyendas urbanas y otros tipos de mensajes en cadena.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1788,14 +1766,14 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;p&gt;Respon les següents qüestions:&lt;/p&gt;
+              <unicode content="true" value="&lt;p&gt;Responde las siguientes cuestiones:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Explica quina funció tenen els distints agents que participen en el servei de correu electrònic.&lt;/li&gt;
-&lt;li&gt;Explica les funcions dels diferents protocols.&lt;/li&gt;
-&lt;li&gt;Explica quin és el format de les adreces de correu electrònic.&lt;/li&gt;
-&lt;li&gt;Què és un àlies? Quines diferències hi ha respecte a les adreces de correu?&lt;/li&gt;
-&lt;li&gt;Quines són les vulnerabilitats del correu electrònic?&lt;/li&gt;
-&lt;li&gt;Quina relació tenen els registres MX del DNS amb el servei de correu electrònic? Explica-ho. &lt;/li&gt;
+&lt;li&gt;Explica cuál es la función de los distintos agentes que participan en el servicio de correo electrónico.&lt;/li&gt;
+&lt;li&gt;Explica las funciones de los diferentes protocolos.&lt;/li&gt;
+&lt;li&gt;Explica cuál es el formato de las direcciones de correo electrónico.&lt;/li&gt;
+&lt;li&gt;¿Qué es un alias? ¿Qué diferencias hay respecto a las direcciones de correo?&lt;/li&gt;
+&lt;li&gt;¿Cuáles son las vulnerabilidades del correo electrónico?&lt;/li&gt;
+&lt;li&gt;¿Qué relación tienen los registros MX del DNS con el servicio de correo electrónico? Explícalo.&lt;/li&gt;
 &lt;/ol&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -1871,7 +1849,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
       <instance class="exe.engine.node.Node" reference="39">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Actividad U4.AEV1. Instalación de un sistema completo de correo"></unicode>
+        <unicode value="08| Actividad U4.AEV1. Instalación de un sistema completo de correo"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.genericidevice.GenericIdevice" reference="37">
@@ -1977,7 +1955,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:Actividad%20U4.AEV1.%20Instalaci%C3%B3n%20de%20un%20sistema%20completo%20de%20correo"></string>
+        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:08%7C%20Actividad%20U4.AEV1.%20Instalaci%C3%B3n%20de%20un%20sistema%20completo%20de%20correo"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1989,7 +1967,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
       <instance class="exe.engine.node.Node" reference="42">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Actividad U4.AEV2. Sistema completo de correo en cliente-servidor con webmail"></unicode>
+        <unicode value="09| Actividad U4.AEV2. Sistema completo de correo en cliente-servidor con webmail"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="40">
@@ -2475,7 +2453,7 @@ sudo apt install thunderbird -y&lt;/span&gt;&lt;/code&gt;&lt;span&gt;&lt;/span&g
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:Actividad%20U4.AEV2.%20Sistema%20completo%20de%20correo%20en%20cliente-servidor%20con%20webmail"></string>
+        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:09%7C%20Actividad%20U4.AEV2.%20Sistema%20completo%20de%20correo%20en%20cliente-servidor%20con%20webmail"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2487,7 +2465,7 @@ sudo apt install thunderbird -y&lt;/span&gt;&lt;/code&gt;&lt;span&gt;&lt;/span&g
       <instance class="exe.engine.node.Node" reference="45">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Bibliografía"></unicode>
+        <unicode value="10| Bibliografía"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="43">
@@ -2524,14 +2502,11 @@ text through the text editing buttons associated with the field."></unicode>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
              <unicode content="true" value="&lt;ul&gt;
-&lt;li&gt;Oriol Torres Carrió. &lt;em&gt;Gestió de serveis de correu electrònic&lt;/em&gt; [en línia]. Institut Obert de Catalunya, 2017  [data de consulta: 05 de febrer de 2018].  Disponible en &amp;lt;&lt;a href=&quot;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&quot;&gt;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&lt;/a&gt;&amp;gt;&lt;/li&gt;
-&lt;li&gt;Col·laboradors de Wikipedia. &lt;em&gt;Phishing&lt;/em&gt; [en línea]. Wikipedia, La enciclopedia libre, 2018 [fecha de consulta: 8 de febrero del 2018]. Disponible en &amp;lt;&lt;a href=&quot;https://es.wikipedia.org/w/index.php?title=Phishing&amp;amp;oldid=105413649&quot;&gt;https://es.wikipedia.org/w/index.php?title=Phishing&amp;amp;oldid=105413649&lt;/a&gt;&amp;gt;.&lt;/li&gt;
-&lt;li&gt;Col·laboradors de la Viquipèdia. &lt;em&gt;Correu brossa&lt;/em&gt; [en línia]. Viquipèdia, l'Enciclopèdia Lliure, 2017 [data de consulta: 19 de novembre del 2017]. Disponible en &amp;lt;&lt;a href=&quot;https://ca.wikipedia.org/w/index.php?title=Correu_brossa&amp;amp;oldid=19200000&quot; target=&quot;_blank&quot;&gt;https://ca.wikipedia.org/w/index.php?title=Correu_brossa&amp;amp;oldid=19200000&lt;/a&gt;&amp;gt;.&lt;/li&gt;
-&lt;li&gt;Col·laboradors de la Viquipèdia. &lt;em&gt;Falsa alarma (hoax)&lt;/em&gt; [en línia]. Viquipèdia, l'Enciclopèdia Lliure, 2017 [data de consulta: 20 de novembre del 2017]. Disponible en &amp;lt;&lt;a href=&quot;https://ca.wikipedia.org/w/index.php?title=Falsa_alarma&amp;amp;oldid=19209826&quot;&gt;https://ca.wikipedia.org/w/index.php?title=Falsa_alarma&amp;amp;oldid=19209826&lt;/a&gt;&amp;gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;"></unicode>
+&lt;li&gt;Oriol Torres Carrió. &lt;em&gt;Gestión de servicios de correo electrónico&lt;/em&gt; [en línea]. Institut Obert de Catalunya, 2017 [fecha de consulta: 05 de febrero de 2018]. Disponible en &amp;lt;&lt;a href=&quot;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&quot;&gt;http://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M07/web/html/WebContent/u2/a2/continguts.html&lt;/a&gt;&amp;gt;&lt;/li&gt;
+&lt;li&gt;Colaboradores de Wikipedia. &lt;em&gt;Phishing&lt;/em&gt; [en línea]. Wikipedia, La enciclopedia libre, 2025 [fecha de consulta: 10 de febrero del 2025]. Disponible en &amp;lt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Phishing&quot;&gt;https://es.wikipedia.org/wiki/Phishing&lt;/a&gt;&amp;gt;.&lt;/li&gt;
+&lt;li&gt;Colaboradores de Wikipedia. &lt;em&gt;Correo basura&lt;/em&gt; [en línea]. Wikipedia, La enciclopedia libre, 2025 [fecha de consulta: 10 de febrero de 2025]. Disponible en &amp;lt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Correo_basura&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://es.wikipedia.org/wiki/Correo_basura&lt;/a&gt;&amp;gt;.&lt;/li&gt;
+&lt;li&gt;Colaboradores de Wikipedia. &lt;em&gt;Bulo (hoax)&lt;/em&gt; [en línea]. Wikipedia, La enciclopedia libre, 2025 [fecha de consulta: 10 de febrero de 2025]. Disponible en &amp;lt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Bulo&quot;&gt;https://es.wikipedia.org/wiki/Bulo&lt;/a&gt;&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2599,7 +2574,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:Bibliograf%C3%ADa"></string>
+        <string value="exe-node:UNIDAD%204.%20Servicios%20de%20e-mail:10%7C%20Bibliograf%C3%ADa"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2641,7 +2616,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="42"></reference>
+  <reference key="45"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2650,17 +2625,17 @@ text through the text editing buttons associated with the field."></unicode>
     <string role="key" value="coverage"></string>
     <unicode value=""></unicode>
     <string role="key" value="creator"></string>
-    <unicode value="Vicent Jordà"></unicode>
+    <unicode value="Vicent Jordà &amp;&amp; Roberto González"></unicode>
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="Unitat didàctica de correu electrònic"></unicode>
+    <unicode value="Unidad didáctica de correo electrónico"></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
     <unicode value="0c41d793-2e2d-4295-af35-eae38e16321d"></unicode>
     <string role="key" value="language"></string>
-    <unicode value="ca"></unicode>
+    <unicode value="es"></unicode>
     <string role="key" value="publisher"></string>
     <unicode value=""></unicode>
     <string role="key" value="relation"></string>
@@ -2672,7 +2647,7 @@ text through the text editing buttons associated with the field."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="4. Serveis d'email"></unicode>
+    <unicode value="4. Servicios de e-mail"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -2829,12 +2804,47 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="extensiontype_"></string>
           <none></none>
           <string role="key" value="valueOf_"></string>
-          <string value="ca"></string>
+          <string value="es"></string>
          </dictionary>
         </instance>
        </list>
        <string role="key" value="learningResourceType"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="lecture"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="semanticDensity"></string>
        <none></none>
        <string role="key" value="typicalAgeRange"></string>
@@ -2888,7 +2898,7 @@ text through the text editing buttons associated with the field."></unicode>
       <list></list>
       <string role="key" value="description"></string>
       <list>
-       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
         <dictionary>
          <string role="key" value="extensiontype_"></string>
          <none></none>
@@ -2897,9 +2907,9 @@ text through the text editing buttons associated with the field."></unicode>
           <instance class="exe.engine.lom.lomsubs.LangStringSub">
            <dictionary>
             <string role="key" value="language"></string>
-            <string value="ca"></string>
+            <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Unitat did\xc3\xa0ctica de correu electr\xc3\xb2nic"></string>
+            <string value="Unidad did\xc3\xa1ctica de correo electr\xc3\xb3nico"></string>
            </dictionary>
           </instance>
          </list>
@@ -2916,7 +2926,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="catalog"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="El meu catàleg"></unicode>
+           <string value="El meu cat\xc3\xa0leg"></string>
           </dictionary>
          </instance>
          <string role="key" value="entry"></string>
@@ -2925,7 +2935,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="entry"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="0c41d793-2e2d-4295-af35-eae38e16321d"></unicode>
+           <string value="0c41d793-2e2d-4295-af35-eae38e16321d"></string>
           </dictionary>
          </instance>
         </dictionary>
@@ -2940,7 +2950,7 @@ text through the text editing buttons associated with the field."></unicode>
          <string role="key" value="extensiontype_"></string>
          <none></none>
          <string role="key" value="valueOf_"></string>
-         <string value="ca"></string>
+         <string value="es"></string>
         </dictionary>
        </instance>
       </list>
@@ -2956,14 +2966,14 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.lom.lomsubs.LangStringSub">
           <dictionary>
            <string role="key" value="language"></string>
-           <string value="ca"></string>
+           <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="4. Serveis d\'email"></string>
+           <string value="4. Servicios de e-mail"></string>
           </dictionary>
          </instance>
         </list>
         <string role="key" value="uniqueElementName"></string>
-        <none></none>
+        <string value="title"></string>
        </dictionary>
       </instance>
       <string role="key" value="uniqueElementName"></string>
@@ -2978,7 +2988,7 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="46">
+         <instance class="exe.engine.lom.lomsubs.dateSub">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -3010,19 +3020,19 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="uniqueElementName"></string>
-           <none></none>
+           <string value="date"></string>
            <string role="key" value="valueOf_"></string>
            <none></none>
           </dictionary>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="47">
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -3032,7 +3042,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="48">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3069,7 +3079,7 @@ text through the text editing buttons associated with the field."></unicode>
       <string role="key" value="status"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="lifeCycle"></string>
       <string role="key" value="version"></string>
       <none></none>
      </dictionary>
@@ -3082,10 +3092,53 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="46"></reference>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2019-02-12T16:31:17.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="ca"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Data de creaci\xc3\xb3 de les metadades"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="47"></reference>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3093,7 +3146,108 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="48"></reference>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-02-10T13:59:16.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3124,7 +3278,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="extensiontype_"></string>
         <none></none>
         <string role="key" value="valueOf_"></string>
-        <string value="ca"></string>
+        <string value="es"></string>
        </dictionary>
       </instance>
       <string role="key" value="metadataSchema"></string>
@@ -3189,7 +3343,7 @@ text through the text editing buttons associated with the field."></unicode>
       <string role="key" value="description"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="rights"></string>
      </dictionary>
     </instance>
     <string role="key" value="technical"></string>
@@ -3336,12 +3490,47 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="extensiontype_"></string>
           <none></none>
           <string role="key" value="valueOf_"></string>
-          <string value="ca"></string>
+          <string value="es"></string>
          </dictionary>
         </instance>
        </list>
        <string role="key" value="learningResourceType"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="master class"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="semanticDensity"></string>
        <none></none>
        <string role="key" value="typicalAgeRange"></string>
@@ -3395,7 +3584,7 @@ text through the text editing buttons associated with the field."></unicode>
       <list></list>
       <string role="key" value="description"></string>
       <list>
-       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
         <dictionary>
          <string role="key" value="extensiontype_"></string>
          <none></none>
@@ -3404,9 +3593,9 @@ text through the text editing buttons associated with the field."></unicode>
           <instance class="exe.engine.lom.lomsubs.LangStringSub">
            <dictionary>
             <string role="key" value="language"></string>
-            <string value="ca"></string>
+            <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Unitat did\xc3\xa0ctica de correu electr\xc3\xb2nic"></string>
+            <string value="Unidad did\xc3\xa1ctica de correo electr\xc3\xb3nico"></string>
            </dictionary>
           </instance>
          </list>
@@ -3423,7 +3612,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="catalog"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="El meu catàleg"></unicode>
+           <string value="El meu cat\xc3\xa0leg"></string>
           </dictionary>
          </instance>
          <string role="key" value="entry"></string>
@@ -3432,7 +3621,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="entry"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="0c41d793-2e2d-4295-af35-eae38e16321d"></unicode>
+           <string value="0c41d793-2e2d-4295-af35-eae38e16321d"></string>
           </dictionary>
          </instance>
         </dictionary>
@@ -3447,7 +3636,7 @@ text through the text editing buttons associated with the field."></unicode>
          <string role="key" value="extensiontype_"></string>
          <none></none>
          <string role="key" value="valueOf_"></string>
-         <string value="ca"></string>
+         <string value="es"></string>
         </dictionary>
        </instance>
       </list>
@@ -3463,14 +3652,14 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.lom.lomsubs.LangStringSub">
           <dictionary>
            <string role="key" value="language"></string>
-           <string value="ca"></string>
+           <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="4. Serveis d\'email"></string>
+           <string value="4. Servicios de e-mail"></string>
           </dictionary>
          </instance>
         </list>
         <string role="key" value="uniqueElementName"></string>
-        <none></none>
+        <string value="title"></string>
        </dictionary>
       </instance>
       <string role="key" value="uniqueElementName"></string>
@@ -3485,7 +3674,7 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="49">
+         <instance class="exe.engine.lom.lomsubs.dateSub">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -3517,19 +3706,19 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="uniqueElementName"></string>
-           <none></none>
+           <string value="date"></string>
            <string role="key" value="valueOf_"></string>
            <none></none>
           </dictionary>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="50">
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -3539,7 +3728,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="51">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3576,7 +3765,7 @@ text through the text editing buttons associated with the field."></unicode>
       <string role="key" value="status"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="lifeCycle"></string>
       <string role="key" value="version"></string>
       <none></none>
      </dictionary>
@@ -3589,10 +3778,53 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="49"></reference>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2019-02-12T16:31:17.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="ca"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Data de creaci\xc3\xb3 de les metadades"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="50"></reference>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3600,7 +3832,108 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="51"></reference>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2025-02-10T13:59:16.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Vicent Jord\xc3\xa0 &amp;&amp; Roberto Gonz\xc3\xa1lez EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3631,7 +3964,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="extensiontype_"></string>
         <none></none>
         <string role="key" value="valueOf_"></string>
-        <string value="ca"></string>
+        <string value="es"></string>
        </dictionary>
       </instance>
       <string role="key" value="metadataSchema"></string>
@@ -3704,7 +4037,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="language"></string>
              <string value="ca"></string>
              <string role="key" value="valueOf_"></string>
-             <unicode value="Per defecte"></unicode>
+             <string value="Per defecte"></string>
             </dictionary>
            </instance>
           </list>
