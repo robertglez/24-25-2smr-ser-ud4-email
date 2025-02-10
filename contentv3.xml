@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="4. Serveis d'email"></unicode>
+  <unicode value="4. Servicios de email"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -73,7 +73,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -1855,7 +1855,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
          <instance class="exe.engine.genericidevice.GenericIdevice" reference="37">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Activitat: instal·lació d'un sistema complet de correu"></unicode>
+           <unicode value="Actividad: Instalación de un sistema completo de correo"></unicode>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_purpose"></string>
@@ -1889,10 +1889,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;p&gt;Documenta tot el procés d'instal·lació que hem dut a terme a classe seguint els apunts del llibre digital tractar de seguir els mateixos passos i ajustant-los al teu cas.&lt;/p&gt;
-&lt;p&gt;Crea també un nou compte de correu i un àlies.&lt;/p&gt;
-&lt;p&gt;Explica com s'ha de configurar Mozilla Thunderbird per  a poder rebre i enviar correu des del nou compte.&lt;/p&gt;
-&lt;p&gt;Investiga com pots configurar el compte de Gmail per a rebre el correu en Thunderbird.&lt;/p&gt;"></unicode>
+              <unicode content="true" value="&lt;p&gt;Documenta todo el proceso de instalación que hemos llevado a cabo en clase siguiendo los apuntes del libro digital. Trata de seguir los mismos pasos y ajustarlos a tu caso.&lt;/p&gt;
+&lt;p&gt;Crea también una nueva cuenta de correo y un alias.&lt;/p&gt;
+&lt;p&gt;Explica cómo se debe configurar Mozilla Thunderbird para poder recibir y enviar correo desde la nueva cuenta.&lt;/p&gt;
+&lt;p&gt;Investiga cómo puedes configurar la cuenta de Gmail para recibir el correo en Thunderbird.&lt;/p&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2616,7 +2616,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="45"></reference>
+  <reference key="3"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2969,6 +2969,14 @@ text through the text editing buttons associated with the field."></unicode>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
            <string value="4. Servicios de e-mail"></string>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="4. Servicios de email"></string>
           </dictionary>
          </instance>
         </list>
@@ -3655,6 +3663,14 @@ text through the text editing buttons associated with the field."></unicode>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
            <string value="4. Servicios de e-mail"></string>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="4. Servicios de email"></string>
           </dictionary>
          </instance>
         </list>

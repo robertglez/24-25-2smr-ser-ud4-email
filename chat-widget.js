@@ -142,7 +142,7 @@
   }
 
   async function getOpenAIResponse(userMessage) {
-    const apiKey = 'XXX'; // Replace with your OpenAI API key
+    const apiKey = 'sk-proj-hvgbos6tOOuNAVLOgYRxT3BlbkFJOpK3DcoHbVZhJYyi5pBp'; // Replace with your OpenAI API key
     const apiUrl = 'https://api.openai.com/v1/completions';
 
     const response = await fetch(apiUrl, {
